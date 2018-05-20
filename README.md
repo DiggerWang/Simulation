@@ -1,5 +1,5 @@
 # Simulation
-Three simulation systems
+Three simulation systems coded in Python and GUI in PyQt5.
 #########################
 (1)Coin Experiment:
 Simulate the expected return from throwing coins.
