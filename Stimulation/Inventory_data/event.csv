@@ -1,0 +1,1382 @@
+,Sim time,Event
+0,0.07337761197596737,There occurs 2 demands. 0 overdue inventories are discarded.
+1,0.3639132102490463,There occurs 2 demands. 0 overdue inventories are discarded.
+2,0.366490730839186,There occurs 2 demands. 0 overdue inventories are discarded.
+3,0.39090183965875624,There occurs 3 demands. 0 overdue inventories are discarded.
+4,0.4159650914059261,There occurs 2 demands. 0 overdue inventories are discarded.
+5,0.4425029502374398,There occurs 2 demands. 0 overdue inventories are discarded.
+6,0.5040481588573317,There occurs 2 demands. 0 overdue inventories are discarded.
+7,0.6858038831181844,There occurs 2 demands. 0 overdue inventories are discarded.
+8,0.7163835339525266,There occurs 3 demands. 0 overdue inventories are discarded.
+9,1.0,50 goods have arrived.
+10,1.1756696196841265,Order 50 goods.
+11,1.2477773133425893,There occurs 3 demands. 0 overdue inventories are discarded.
+12,1.279149734784326,There occurs 3 demands. 0 overdue inventories are discarded.
+13,1.432237934632815,There occurs 3 demands. 0 overdue inventories are discarded.
+14,1.5978593930948368,There occurs 3 demands. 0 overdue inventories are discarded.
+15,1.603635366409591,There occurs 3 demands. 0 overdue inventories are discarded.
+16,1.6738986627634402,There occurs 3 demands. 0 overdue inventories are discarded.
+17,1.7163753704486935,There occurs 2 demands. 0 overdue inventories are discarded.
+18,1.7776513867608092,There occurs 3 demands. 0 overdue inventories are discarded.
+19,1.8037365816861055,There occurs 1 demands. 0 overdue inventories are discarded.
+20,1.9632395836444325,There occurs 4 demands. 0 overdue inventories are discarded.
+21,2.0,There occurs 2 demands. 0 overdue inventories are discarded.
+22,2.1475942399479404,Order 50 goods.
+23,2.1492773887701775,There occurs 1 demands. 0 overdue inventories are discarded.
+24,2.2901668829771036,There occurs 1 demands. 0 overdue inventories are discarded.
+25,2.388197044641392,There occurs 2 demands. 0 overdue inventories are discarded.
+26,2.405587812896385,There occurs 2 demands. 0 overdue inventories are discarded.
+27,2.4374589243828426,There occurs 2 demands. 0 overdue inventories are discarded.
+28,2.4763199840164605,There occurs 2 demands. 0 overdue inventories are discarded.
+29,2.525186793962381,There occurs 2 demands. 0 overdue inventories are discarded.
+30,2.5367011366116836,There occurs 2 demands. 0 overdue inventories are discarded.
+31,2.6297524356634105,There occurs 3 demands. 0 overdue inventories are discarded.
+32,2.631555037428057,There occurs 2 demands. 0 overdue inventories are discarded.
+33,2.758436564908503,There occurs 1 demands. 0 overdue inventories are discarded.
+34,2.8365567627193533,There occurs 1 demands. 0 overdue inventories are discarded.
+35,2.880380960978307,50 goods have arrived.
+36,2.9900296743030492,There occurs 2 demands. 0 overdue inventories are discarded.
+37,3.0,There occurs 2 demands. 0 overdue inventories are discarded.
+38,3.0293851543596277,Order 25 goods.
+39,3.0518061928075624,There occurs 2 demands. 0 overdue inventories are discarded.
+40,3.093220807941758,There occurs 3 demands. 0 overdue inventories are discarded.
+41,3.1353573654790936,There occurs 4 demands. 0 overdue inventories are discarded.
+42,3.5587748019670697,There occurs 3 demands. 0 overdue inventories are discarded.
+43,3.577370916188088,There occurs 3 demands. 0 overdue inventories are discarded.
+44,3.719714970957349,There occurs 2 demands. 0 overdue inventories are discarded.
+45,3.7613097421194794,There occurs 3 demands. 0 overdue inventories are discarded.
+46,3.9358107537117775,There occurs 3 demands. 0 overdue inventories are discarded.
+47,4.0,25 goods have arrived.
+48,4.069891759222588,Order 23 goods.
+49,4.421431566663091,There occurs 2 demands. 0 overdue inventories are discarded.
+50,4.450655495549197,There occurs 2 demands. 0 overdue inventories are discarded.
+51,4.551417072993155,There occurs 2 demands. 0 overdue inventories are discarded.
+52,4.556225201651124,23 goods have arrived.
+53,4.854266126894424,There occurs 2 demands. 0 overdue inventories are discarded.
+54,4.89280061572426,There occurs 4 demands. 0 overdue inventories are discarded.
+55,4.965029022623606,There occurs 1 demands. 0 overdue inventories are discarded.
+56,5.0,There occurs 2 demands. 0 overdue inventories are discarded.
+57,5.1892333502684655,Order 23 goods.
+58,5.430564542195706,There occurs 1 demands. 0 overdue inventories are discarded.
+59,5.468554319444083,There occurs 1 demands. 0 overdue inventories are discarded.
+60,5.605669236674223,There occurs 4 demands. 0 overdue inventories are discarded.
+61,5.6623450099466694,There occurs 2 demands. 0 overdue inventories are discarded.
+62,5.787810042980028,There occurs 1 demands. 0 overdue inventories are discarded.
+63,5.794468284450348,There occurs 2 demands. 0 overdue inventories are discarded.
+64,5.872421102329619,There occurs 3 demands. 0 overdue inventories are discarded.
+65,5.922791282305947,There occurs 2 demands. 0 overdue inventories are discarded.
+66,5.925262415122071,There occurs 2 demands. 0 overdue inventories are discarded.
+67,6.0,There occurs 2 demands. 0 overdue inventories are discarded.
+68,6.009799900212444,Order 35 goods.
+69,6.023167785166076,There occurs 2 demands. 0 overdue inventories are discarded.
+70,6.074430869038207,There occurs 3 demands. 0 overdue inventories are discarded.
+71,6.075181395761358,There occurs 2 demands. 0 overdue inventories are discarded.
+72,6.132863152380761,There occurs 3 demands. 0 overdue inventories are discarded.
+73,6.201197145447475,There occurs 3 demands. 0 overdue inventories are discarded.
+74,6.254341846658977,There occurs 2 demands. 0 overdue inventories are discarded.
+75,6.358305033327066,There occurs 4 demands. 0 overdue inventories are discarded.
+76,6.36572905784175,There occurs 1 demands. 0 overdue inventories are discarded.
+77,6.510984380381887,There occurs 3 demands. 0 overdue inventories are discarded.
+78,6.53116081540176,There occurs 2 demands. 0 overdue inventories are discarded.
+79,6.6289309263456335,35 goods have arrived.
+80,6.79123975740998,There occurs 2 demands. 0 overdue inventories are discarded.
+81,6.8306132663944155,There occurs 2 demands. 0 overdue inventories are discarded.
+82,7.0,There occurs 1 demands. 0 overdue inventories are discarded.
+83,7.070176286289,Order 30 goods.
+84,7.161975274046259,There occurs 1 demands. 0 overdue inventories are discarded.
+85,7.196998493329734,There occurs 2 demands. 0 overdue inventories are discarded.
+86,7.218050685349012,There occurs 3 demands. 0 overdue inventories are discarded.
+87,7.316809647582433,There occurs 2 demands. 0 overdue inventories are discarded.
+88,7.3503263823170215,There occurs 3 demands. 0 overdue inventories are discarded.
+89,7.4384520679579795,There occurs 2 demands. 0 overdue inventories are discarded.
+90,7.603819589207609,There occurs 3 demands. 0 overdue inventories are discarded.
+91,7.797404076499411,There occurs 3 demands. 0 overdue inventories are discarded.
+92,7.830818214420223,There occurs 3 demands. 0 overdue inventories are discarded.
+93,7.979712040022072,There occurs 1 demands. 0 overdue inventories are discarded.
+94,7.9956096311708365,30 goods have arrived.
+95,8.0,There occurs 3 demands. 0 overdue inventories are discarded.
+96,8.04014807468405,Order 26 goods.
+97,8.092109836002237,There occurs 2 demands. 0 overdue inventories are discarded.
+98,8.320299074781115,There occurs 3 demands. 0 overdue inventories are discarded.
+99,8.457250012932132,There occurs 2 demands. 0 overdue inventories are discarded.
+100,8.501759621048526,There occurs 3 demands. 0 overdue inventories are discarded.
+101,8.509505928078866,26 goods have arrived.
+102,8.534649758192963,There occurs 2 demands. 0 overdue inventories are discarded.
+103,8.764303412089125,There occurs 4 demands. 0 overdue inventories are discarded.
+104,8.820825543051015,There occurs 2 demands. 0 overdue inventories are discarded.
+105,8.919145149644978,There occurs 3 demands. 0 overdue inventories are discarded.
+106,9.0,There occurs 3 demands. 0 overdue inventories are discarded.
+107,9.163496677378573,Order 24 goods.
+108,9.238276513888852,There occurs 2 demands. 0 overdue inventories are discarded.
+109,9.253137883492068,There occurs 1 demands. 0 overdue inventories are discarded.
+110,9.392319365170138,There occurs 2 demands. 0 overdue inventories are discarded.
+111,9.428775083769679,There occurs 3 demands. 0 overdue inventories are discarded.
+112,9.479360194688093,There occurs 1 demands. 0 overdue inventories are discarded.
+113,9.500033250673862,There occurs 2 demands. 0 overdue inventories are discarded.
+114,9.591042640757978,There occurs 1 demands. 0 overdue inventories are discarded.
+115,9.594575667166552,There occurs 2 demands. 0 overdue inventories are discarded.
+116,9.63649807502583,There occurs 4 demands. 0 overdue inventories are discarded.
+117,9.754470636862752,There occurs 2 demands. 0 overdue inventories are discarded.
+118,9.805504169097324,There occurs 1 demands. 0 overdue inventories are discarded.
+119,9.823968303095016,There occurs 2 demands. 0 overdue inventories are discarded.
+120,9.864123922393397,There occurs 3 demands. 0 overdue inventories are discarded.
+121,9.910702347986389,24 goods have arrived.
+122,10.0,There occurs 1 demands. 0 overdue inventories are discarded.
+123,10.012179018220209,Order 27 goods.
+124,10.06155979802089,There occurs 3 demands. 0 overdue inventories are discarded.
+125,10.089411119419585,There occurs 3 demands. 0 overdue inventories are discarded.
+126,10.363003631205535,There occurs 1 demands. 0 overdue inventories are discarded.
+127,10.45597992622481,There occurs 2 demands. 0 overdue inventories are discarded.
+128,10.499556001241872,There occurs 3 demands. 0 overdue inventories are discarded.
+129,10.711670086024837,There occurs 2 demands. 0 overdue inventories are discarded.
+130,10.847648206316256,There occurs 3 demands. 0 overdue inventories are discarded.
+131,10.872307133969928,There occurs 3 demands. 0 overdue inventories are discarded.
+132,11.0,27 goods have arrived.
+133,11.222314643432188,Order 27 goods.
+134,11.664854473001435,There occurs 2 demands. 0 overdue inventories are discarded.
+135,11.741559468547619,There occurs 3 demands. 0 overdue inventories are discarded.
+136,11.758642084254602,There occurs 3 demands. 0 overdue inventories are discarded.
+137,11.801012011690618,There occurs 3 demands. 0 overdue inventories are discarded.
+138,11.969724218506244,There occurs 2 demands. 0 overdue inventories are discarded.
+139,12.0,There occurs 2 demands. 0 overdue inventories are discarded.
+140,12.005152140283927,Order 35 goods.
+141,12.079834027720043,There occurs 3 demands. 0 overdue inventories are discarded.
+142,12.325662060377113,There occurs 1 demands. 0 overdue inventories are discarded.
+143,12.332795135564824,There occurs 2 demands. 0 overdue inventories are discarded.
+144,12.57684745340248,There occurs 2 demands. 0 overdue inventories are discarded.
+145,12.67630807039391,There occurs 3 demands. 0 overdue inventories are discarded.
+146,12.836466889988644,35 goods have arrived.
+147,12.965863388471085,There occurs 3 demands. 0 overdue inventories are discarded.
+148,12.988348342872158,There occurs 3 demands. 0 overdue inventories are discarded.
+149,13.0,There occurs 3 demands. 0 overdue inventories are discarded.
+150,13.05511106584132,Order 35 goods.
+151,13.142961824408987,There occurs 3 demands. 0 overdue inventories are discarded.
+152,13.333437796599236,There occurs 1 demands. 0 overdue inventories are discarded.
+153,13.369013087126252,There occurs 2 demands. 0 overdue inventories are discarded.
+154,13.381801497965052,There occurs 2 demands. 0 overdue inventories are discarded.
+155,13.735131822099852,There occurs 3 demands. 0 overdue inventories are discarded.
+156,13.809708001861734,There occurs 3 demands. 0 overdue inventories are discarded.
+157,13.909123835746069,There occurs 4 demands. 0 overdue inventories are discarded.
+158,13.97971007358052,There occurs 2 demands. 0 overdue inventories are discarded.
+159,14.0,There occurs 4 demands. 0 overdue inventories are discarded.
+160,14.080952912546419,Order 44 goods.
+161,14.132392592409634,There occurs 3 demands. 0 overdue inventories are discarded.
+162,14.361406767619028,There occurs 3 demands. 0 overdue inventories are discarded.
+163,14.423836932867424,There occurs 3 demands. 0 overdue inventories are discarded.
+164,14.562212215711899,There occurs 2 demands. 0 overdue inventories are discarded.
+165,14.623120081405142,There occurs 2 demands. 0 overdue inventories are discarded.
+166,14.666892585686323,There occurs 1 demands. 0 overdue inventories are discarded.
+167,14.685775732581352,There occurs 2 demands. 0 overdue inventories are discarded.
+168,14.719623443988008,There occurs 3 demands. 0 overdue inventories are discarded.
+169,14.791734566953792,There occurs 2 demands. 0 overdue inventories are discarded.
+170,14.941791882842312,There occurs 3 demands. 0 overdue inventories are discarded.
+171,14.997265504390665,There occurs 3 demands. 0 overdue inventories are discarded.
+172,15.0,44 goods have arrived.
+173,15.297558355076697,Order 27 goods.
+174,15.368449106981569,There occurs 2 demands. 0 overdue inventories are discarded.
+175,15.560779524748645,There occurs 2 demands. 0 overdue inventories are discarded.
+176,15.609614931649334,There occurs 1 demands. 0 overdue inventories are discarded.
+177,15.68316668290409,There occurs 2 demands. 0 overdue inventories are discarded.
+178,15.694858536585377,There occurs 4 demands. 0 overdue inventories are discarded.
+179,15.750987917658874,27 goods have arrived.
+180,15.76608382287014,There occurs 2 demands. 0 overdue inventories are discarded.
+181,15.843481708294231,There occurs 2 demands. 0 overdue inventories are discarded.
+182,15.869132096311674,There occurs 3 demands. 0 overdue inventories are discarded.
+183,15.869556660743429,There occurs 4 demands. 0 overdue inventories are discarded.
+184,15.905984840024555,There occurs 1 demands. 0 overdue inventories are discarded.
+185,15.931410903515285,There occurs 2 demands. 0 overdue inventories are discarded.
+186,16.0,There occurs 3 demands. 0 overdue inventories are discarded.
+187,16.02332512901368,Order 28 goods.
+188,16.06334817404691,There occurs 1 demands. 0 overdue inventories are discarded.
+189,16.092225998559886,There occurs 1 demands. 0 overdue inventories are discarded.
+190,16.100279252882924,There occurs 3 demands. 0 overdue inventories are discarded.
+191,16.138408221071987,There occurs 2 demands. 0 overdue inventories are discarded.
+192,16.14157483048564,There occurs 2 demands. 0 overdue inventories are discarded.
+193,16.192545327138532,There occurs 1 demands. 0 overdue inventories are discarded.
+194,16.30637762497215,There occurs 3 demands. 0 overdue inventories are discarded.
+195,16.603327387379153,There occurs 3 demands. 0 overdue inventories are discarded.
+196,16.759214916748093,There occurs 3 demands. 0 overdue inventories are discarded.
+197,16.78868592497562,28 goods have arrived.
+198,16.97780602134694,There occurs 3 demands. 0 overdue inventories are discarded.
+199,16.990346447018585,There occurs 2 demands. 0 overdue inventories are discarded.
+200,17.0,There occurs 2 demands. 0 overdue inventories are discarded.
+201,17.100271486666447,Order 26 goods.
+202,17.404627777399313,There occurs 2 demands. 0 overdue inventories are discarded.
+203,17.487161727964182,There occurs 3 demands. 0 overdue inventories are discarded.
+204,17.638219787802768,There occurs 2 demands. 0 overdue inventories are discarded.
+205,17.89969397201714,There occurs 2 demands. 0 overdue inventories are discarded.
+206,17.90931506270202,26 goods have arrived.
+207,18.0,There occurs 2 demands. 0 overdue inventories are discarded.
+208,18.088800502169992,Order 26 goods.
+209,18.129689122409076,There occurs 3 demands. 0 overdue inventories are discarded.
+210,18.19154977534571,There occurs 3 demands. 0 overdue inventories are discarded.
+211,18.339898735412707,There occurs 2 demands. 0 overdue inventories are discarded.
+212,18.397988570307927,There occurs 2 demands. 0 overdue inventories are discarded.
+213,18.414226492038917,There occurs 4 demands. 0 overdue inventories are discarded.
+214,18.416883871765773,There occurs 2 demands. 0 overdue inventories are discarded.
+215,18.437091271829203,There occurs 1 demands. 0 overdue inventories are discarded.
+216,18.471129737985603,There occurs 3 demands. 0 overdue inventories are discarded.
+217,18.829043561997555,There occurs 1 demands. 0 overdue inventories are discarded.
+218,18.879552353592857,There occurs 3 demands. 0 overdue inventories are discarded.
+219,18.929111971790487,There occurs 4 demands. 0 overdue inventories are discarded.
+220,19.0,There occurs 1 demands. 0 overdue inventories are discarded.
+221,19.09200628469153,Order 40 goods.
+222,19.11933822336348,There occurs 3 demands. 0 overdue inventories are discarded.
+223,19.207370935093056,There occurs 4 demands. 0 overdue inventories are discarded.
+224,19.365553546349446,There occurs 2 demands. 0 overdue inventories are discarded.
+225,19.48287027304924,There occurs 3 demands. 0 overdue inventories are discarded.
+226,19.634045609599045,There occurs 3 demands. 0 overdue inventories are discarded.
+227,19.737296655973438,There occurs 1 demands. 0 overdue inventories are discarded.
+228,19.802482503176755,There occurs 3 demands. 0 overdue inventories are discarded.
+229,19.803706800513893,There occurs 2 demands. 0 overdue inventories are discarded.
+230,19.836289867470065,There occurs 2 demands. 0 overdue inventories are discarded.
+231,19.874609392668397,There occurs 4 demands. 0 overdue inventories are discarded.
+232,19.94424203833119,There occurs 2 demands. 0 overdue inventories are discarded.
+233,19.99107896321628,There occurs 2 demands. 0 overdue inventories are discarded.
+234,19.994574763237754,40 goods have arrived.
+235,20.0,There occurs 2 demands. 0 overdue inventories are discarded.
+236,20.14884149004209,Order 33 goods.
+237,20.26354134497031,There occurs 2 demands. 0 overdue inventories are discarded.
+238,20.340869122773306,There occurs 2 demands. 0 overdue inventories are discarded.
+239,20.368473240238863,There occurs 1 demands. 0 overdue inventories are discarded.
+240,20.476873006312733,There occurs 2 demands. 0 overdue inventories are discarded.
+241,20.528762426340062,There occurs 2 demands. 0 overdue inventories are discarded.
+242,20.659258160521624,33 goods have arrived.
+243,20.837059684245276,There occurs 2 demands. 0 overdue inventories are discarded.
+244,20.919047095785892,There occurs 1 demands. 0 overdue inventories are discarded.
+245,20.943169926845947,There occurs 2 demands. 0 overdue inventories are discarded.
+246,20.953044565803506,There occurs 4 demands. 0 overdue inventories are discarded.
+247,21.0,There occurs 2 demands. 0 overdue inventories are discarded.
+248,21.007978097050486,Order 33 goods.
+249,21.029050275172953,There occurs 3 demands. 0 overdue inventories are discarded.
+250,21.07363701788028,There occurs 3 demands. 0 overdue inventories are discarded.
+251,21.080304591994032,There occurs 3 demands. 0 overdue inventories are discarded.
+252,21.259915105330524,There occurs 2 demands. 0 overdue inventories are discarded.
+253,21.49706820710661,There occurs 2 demands. 0 overdue inventories are discarded.
+254,21.566592785278146,There occurs 2 demands. 0 overdue inventories are discarded.
+255,22.0,There occurs 3 demands. 0 overdue inventories are discarded.
+256,22.06383161190003,Order 38 goods.
+257,22.29996934869869,There occurs 3 demands. 0 overdue inventories are discarded.
+258,22.5406056635739,There occurs 3 demands. 0 overdue inventories are discarded.
+259,22.62944460410733,There occurs 2 demands. 0 overdue inventories are discarded.
+260,22.71844172969685,There occurs 2 demands. 0 overdue inventories are discarded.
+261,22.89833509740129,There occurs 2 demands. 0 overdue inventories are discarded.
+262,22.918705641844628,38 goods have arrived.
+263,22.942351531234817,There occurs 3 demands. 0 overdue inventories are discarded.
+264,23.0,There occurs 2 demands. 0 overdue inventories are discarded.
+265,23.07612065466409,Order 38 goods.
+266,23.08393037055308,There occurs 4 demands. 0 overdue inventories are discarded.
+267,23.142310215443917,There occurs 4 demands. 0 overdue inventories are discarded.
+268,23.180213513629262,There occurs 3 demands. 0 overdue inventories are discarded.
+269,23.2689725275089,There occurs 3 demands. 0 overdue inventories are discarded.
+270,23.630348555502845,There occurs 3 demands. 0 overdue inventories are discarded.
+271,23.644279992623847,There occurs 2 demands. 0 overdue inventories are discarded.
+272,23.675285960332126,There occurs 2 demands. 0 overdue inventories are discarded.
+273,24.0,There occurs 2 demands. 0 overdue inventories are discarded.
+274,24.003316588334453,Order 40 goods.
+275,24.272948535833912,There occurs 3 demands. 0 overdue inventories are discarded.
+276,24.66746268766768,There occurs 1 demands. 0 overdue inventories are discarded.
+277,24.672787371405235,40 goods have arrived.
+278,24.731514139427187,There occurs 3 demands. 0 overdue inventories are discarded.
+279,24.829818743784845,There occurs 3 demands. 0 overdue inventories are discarded.
+280,24.932526151513567,There occurs 2 demands. 0 overdue inventories are discarded.
+281,25.0,There occurs 3 demands. 0 overdue inventories are discarded.
+282,25.071724248863536,Order 40 goods.
+283,25.07323163131845,There occurs 2 demands. 0 overdue inventories are discarded.
+284,25.277535816379693,There occurs 3 demands. 0 overdue inventories are discarded.
+285,25.29030621348116,There occurs 2 demands. 0 overdue inventories are discarded.
+286,25.407671673726153,There occurs 3 demands. 0 overdue inventories are discarded.
+287,25.73571894434512,There occurs 3 demands. 0 overdue inventories are discarded.
+288,25.881055536706693,There occurs 2 demands. 0 overdue inventories are discarded.
+289,25.915834352389535,There occurs 3 demands. 0 overdue inventories are discarded.
+290,26.0,There occurs 3 demands. 0 overdue inventories are discarded.
+291,26.11702434037928,Order 36 goods.
+292,26.21313479120627,There occurs 3 demands. 0 overdue inventories are discarded.
+293,26.263334466089415,There occurs 2 demands. 0 overdue inventories are discarded.
+294,26.53710276983782,There occurs 2 demands. 0 overdue inventories are discarded.
+295,26.719089364741606,36 goods have arrived.
+296,26.80013168578054,There occurs 3 demands. 0 overdue inventories are discarded.
+297,26.852347337520023,There occurs 2 demands. 0 overdue inventories are discarded.
+298,26.872809924981738,There occurs 1 demands. 0 overdue inventories are discarded.
+299,26.892232692819796,There occurs 3 demands. 0 overdue inventories are discarded.
+300,27.0,There occurs 2 demands. 0 overdue inventories are discarded.
+301,27.050639167845265,Order 36 goods.
+302,27.229599981843396,There occurs 2 demands. 0 overdue inventories are discarded.
+303,27.234006348215786,There occurs 1 demands. 0 overdue inventories are discarded.
+304,27.323054076423006,There occurs 2 demands. 0 overdue inventories are discarded.
+305,27.335745862203655,There occurs 3 demands. 0 overdue inventories are discarded.
+306,27.640733812389303,There occurs 3 demands. 0 overdue inventories are discarded.
+307,27.674436649234973,There occurs 2 demands. 0 overdue inventories are discarded.
+308,27.703023639593905,There occurs 2 demands. 0 overdue inventories are discarded.
+309,27.732027749745914,There occurs 1 demands. 0 overdue inventories are discarded.
+310,27.792589882354342,There occurs 2 demands. 0 overdue inventories are discarded.
+311,27.992489664522985,There occurs 3 demands. 0 overdue inventories are discarded.
+312,28.0,There occurs 2 demands. 0 overdue inventories are discarded.
+313,28.020526565677763,Order 41 goods.
+314,28.032612143104025,There occurs 3 demands. 0 overdue inventories are discarded.
+315,28.192330723945535,There occurs 1 demands. 0 overdue inventories are discarded.
+316,28.332878881359893,There occurs 4 demands. 0 overdue inventories are discarded.
+317,28.3762474518498,There occurs 2 demands. 0 overdue inventories are discarded.
+318,28.377973296528342,There occurs 2 demands. 0 overdue inventories are discarded.
+319,28.396367462706756,There occurs 1 demands. 0 overdue inventories are discarded.
+320,28.412559979859562,There occurs 3 demands. 0 overdue inventories are discarded.
+321,28.420864326158174,There occurs 3 demands. 0 overdue inventories are discarded.
+322,28.524444246810674,There occurs 2 demands. 0 overdue inventories are discarded.
+323,28.580368622850237,There occurs 3 demands. 0 overdue inventories are discarded.
+324,28.695733342224365,There occurs 4 demands. 0 overdue inventories are discarded.
+325,28.716409863591302,There occurs 1 demands. 0 overdue inventories are discarded.
+326,28.73768756314291,There occurs 3 demands. 0 overdue inventories are discarded.
+327,28.915101034527073,There occurs 3 demands. 0 overdue inventories are discarded.
+328,28.941954732019127,41 goods have arrived.
+329,28.967841716117547,There occurs 1 demands. 0 overdue inventories are discarded.
+330,29.0,There occurs 4 demands. 0 overdue inventories are discarded.
+331,29.201719418431484,Order 40 goods.
+332,29.266150736930257,There occurs 3 demands. 0 overdue inventories are discarded.
+333,29.32290821163957,There occurs 2 demands. 0 overdue inventories are discarded.
+334,29.345876747471856,There occurs 1 demands. 0 overdue inventories are discarded.
+335,29.36922751595537,There occurs 2 demands. 0 overdue inventories are discarded.
+336,29.374281943656204,There occurs 2 demands. 0 overdue inventories are discarded.
+337,29.57628368669983,There occurs 3 demands. 0 overdue inventories are discarded.
+338,29.679516393688093,There occurs 1 demands. 0 overdue inventories are discarded.
+339,29.765113444670064,There occurs 2 demands. 0 overdue inventories are discarded.
+340,29.770963515301297,There occurs 4 demands. 0 overdue inventories are discarded.
+341,29.803106375785145,40 goods have arrived.
+342,29.846449043696182,There occurs 2 demands. 0 overdue inventories are discarded.
+343,30.0,There occurs 3 demands. 0 overdue inventories are discarded.
+344,30.053568917574793,Order 25 goods.
+345,30.184661703711708,There occurs 4 demands. 0 overdue inventories are discarded.
+346,30.255412375554602,There occurs 3 demands. 0 overdue inventories are discarded.
+347,30.338212995296786,There occurs 4 demands. 0 overdue inventories are discarded.
+348,30.41865789776271,There occurs 2 demands. 0 overdue inventories are discarded.
+349,30.50749177852219,There occurs 3 demands. 0 overdue inventories are discarded.
+350,30.636917888155434,There occurs 1 demands. 0 overdue inventories are discarded.
+351,30.69791807227695,There occurs 2 demands. 0 overdue inventories are discarded.
+352,30.753292502436782,25 goods have arrived.
+353,30.8010984776489,There occurs 2 demands. 0 overdue inventories are discarded.
+354,30.85900226376497,There occurs 3 demands. 0 overdue inventories are discarded.
+355,31.0,There occurs 2 demands. 0 overdue inventories are discarded.
+356,31.039367480823206,Order 26 goods.
+357,31.088398002694497,There occurs 2 demands. 0 overdue inventories are discarded.
+358,31.14799068030131,There occurs 2 demands. 0 overdue inventories are discarded.
+359,31.169547665916063,There occurs 2 demands. 0 overdue inventories are discarded.
+360,31.218933984637925,There occurs 2 demands. 0 overdue inventories are discarded.
+361,31.310035965698436,There occurs 3 demands. 0 overdue inventories are discarded.
+362,31.470277127862506,There occurs 3 demands. 0 overdue inventories are discarded.
+363,31.527012419272854,There occurs 1 demands. 0 overdue inventories are discarded.
+364,31.733394705183187,26 goods have arrived.
+365,31.90718305977752,There occurs 2 demands. 0 overdue inventories are discarded.
+366,32.0,There occurs 3 demands. 0 overdue inventories are discarded.
+367,32.03578983871202,Order 26 goods.
+368,32.10203851727418,There occurs 3 demands. 0 overdue inventories are discarded.
+369,32.12961690276941,There occurs 3 demands. 0 overdue inventories are discarded.
+370,32.28131627832068,There occurs 3 demands. 0 overdue inventories are discarded.
+371,32.56714935714223,There occurs 3 demands. 0 overdue inventories are discarded.
+372,32.65760502832037,There occurs 2 demands. 0 overdue inventories are discarded.
+373,32.81209461544201,There occurs 2 demands. 0 overdue inventories are discarded.
+374,32.83753253830667,There occurs 2 demands. 0 overdue inventories are discarded.
+375,32.8568457890864,There occurs 3 demands. 0 overdue inventories are discarded.
+376,33.0,There occurs 4 demands. 0 overdue inventories are discarded.
+377,33.00831207445995,Order 45 goods.
+378,33.10282188416746,There occurs 2 demands. 0 overdue inventories are discarded.
+379,33.15973135429932,There occurs 3 demands. 0 overdue inventories are discarded.
+380,33.21212951713814,There occurs 2 demands. 0 overdue inventories are discarded.
+381,33.288403693008895,There occurs 1 demands. 0 overdue inventories are discarded.
+382,33.303981481198846,There occurs 3 demands. 0 overdue inventories are discarded.
+383,33.42465999374506,There occurs 3 demands. 0 overdue inventories are discarded.
+384,33.44190314122069,There occurs 3 demands. 0 overdue inventories are discarded.
+385,33.786813113220724,There occurs 2 demands. 0 overdue inventories are discarded.
+386,33.87474885746432,There occurs 1 demands. 0 overdue inventories are discarded.
+387,33.88911269913227,There occurs 1 demands. 0 overdue inventories are discarded.
+388,33.91990173196187,There occurs 3 demands. 0 overdue inventories are discarded.
+389,33.92727882386805,45 goods have arrived.
+390,33.97371464369938,There occurs 3 demands. 0 overdue inventories are discarded.
+391,34.0,There occurs 3 demands. 0 overdue inventories are discarded.
+392,34.01960863123894,Order 30 goods.
+393,34.04678973038706,There occurs 2 demands. 0 overdue inventories are discarded.
+394,34.15749303391062,There occurs 1 demands. 0 overdue inventories are discarded.
+395,34.163064491131074,There occurs 3 demands. 0 overdue inventories are discarded.
+396,34.219308898663485,There occurs 3 demands. 0 overdue inventories are discarded.
+397,34.4157680908104,There occurs 2 demands. 0 overdue inventories are discarded.
+398,34.50370770937328,There occurs 4 demands. 0 overdue inventories are discarded.
+399,34.564307986290004,There occurs 1 demands. 0 overdue inventories are discarded.
+400,34.607286721597724,There occurs 3 demands. 0 overdue inventories are discarded.
+401,34.7093239049139,There occurs 2 demands. 0 overdue inventories are discarded.
+402,34.71125002928531,There occurs 2 demands. 0 overdue inventories are discarded.
+403,34.74524799502195,There occurs 1 demands. 0 overdue inventories are discarded.
+404,34.75219766787847,There occurs 2 demands. 0 overdue inventories are discarded.
+405,34.77449900628205,There occurs 3 demands. 0 overdue inventories are discarded.
+406,34.815645519339455,30 goods have arrived.
+407,34.90609035758301,There occurs 1 demands. 0 overdue inventories are discarded.
+408,34.9373723115081,There occurs 3 demands. 0 overdue inventories are discarded.
+409,35.0,There occurs 2 demands. 0 overdue inventories are discarded.
+410,35.291583257395544,Order 35 goods.
+411,35.31067657279135,There occurs 2 demands. 0 overdue inventories are discarded.
+412,35.398664888098786,There occurs 2 demands. 0 overdue inventories are discarded.
+413,35.54127570198535,There occurs 3 demands. 0 overdue inventories are discarded.
+414,35.656872258202114,There occurs 2 demands. 0 overdue inventories are discarded.
+415,35.73885497242821,There occurs 2 demands. 0 overdue inventories are discarded.
+416,35.75637890031547,35 goods have arrived.
+417,35.77265227342907,There occurs 1 demands. 0 overdue inventories are discarded.
+418,35.816175255140244,There occurs 2 demands. 0 overdue inventories are discarded.
+419,35.83064275875667,There occurs 3 demands. 0 overdue inventories are discarded.
+420,36.0,There occurs 2 demands. 0 overdue inventories are discarded.
+421,36.024499962032124,Order 35 goods.
+422,36.11889661982273,There occurs 3 demands. 0 overdue inventories are discarded.
+423,36.17625842845723,There occurs 2 demands. 0 overdue inventories are discarded.
+424,36.32227418458102,There occurs 2 demands. 0 overdue inventories are discarded.
+425,36.42353762804737,There occurs 1 demands. 0 overdue inventories are discarded.
+426,36.61263605808161,There occurs 2 demands. 0 overdue inventories are discarded.
+427,36.85436601856158,There occurs 2 demands. 0 overdue inventories are discarded.
+428,37.0,There occurs 3 demands. 0 overdue inventories are discarded.
+429,37.13972356499166,Order 34 goods.
+430,37.164267638284095,There occurs 2 demands. 0 overdue inventories are discarded.
+431,37.17560658325702,There occurs 4 demands. 0 overdue inventories are discarded.
+432,37.17579046451283,There occurs 3 demands. 0 overdue inventories are discarded.
+433,37.68276792789626,There occurs 3 demands. 0 overdue inventories are discarded.
+434,37.72997839638693,34 goods have arrived.
+435,37.86871728804674,There occurs 3 demands. 0 overdue inventories are discarded.
+436,38.0,There occurs 3 demands. 0 overdue inventories are discarded.
+437,38.22243600740207,Order 34 goods.
+438,38.30983403469023,There occurs 1 demands. 0 overdue inventories are discarded.
+439,38.455136783270795,There occurs 1 demands. 0 overdue inventories are discarded.
+440,38.63922856757224,There occurs 2 demands. 0 overdue inventories are discarded.
+441,38.80180271324366,There occurs 2 demands. 0 overdue inventories are discarded.
+442,38.91350749576155,There occurs 2 demands. 0 overdue inventories are discarded.
+443,39.0,There occurs 2 demands. 0 overdue inventories are discarded.
+444,39.00787158820175,Order 28 goods.
+445,39.015475561381834,There occurs 1 demands. 0 overdue inventories are discarded.
+446,39.05210538596644,There occurs 1 demands. 0 overdue inventories are discarded.
+447,39.242108462409426,There occurs 3 demands. 0 overdue inventories are discarded.
+448,39.34090031172347,There occurs 2 demands. 0 overdue inventories are discarded.
+449,39.43328455419435,There occurs 2 demands. 0 overdue inventories are discarded.
+450,39.47050519125742,There occurs 3 demands. 0 overdue inventories are discarded.
+451,39.50642969472453,There occurs 3 demands. 0 overdue inventories are discarded.
+452,39.57204404525682,There occurs 1 demands. 0 overdue inventories are discarded.
+453,39.599708744529416,There occurs 3 demands. 0 overdue inventories are discarded.
+454,39.62977005796613,There occurs 1 demands. 0 overdue inventories are discarded.
+455,39.673806156104106,There occurs 2 demands. 0 overdue inventories are discarded.
+456,39.71032992491504,28 goods have arrived.
+457,39.71833302347102,There occurs 1 demands. 0 overdue inventories are discarded.
+458,39.746653356241914,There occurs 2 demands. 0 overdue inventories are discarded.
+459,39.768304523571686,There occurs 2 demands. 0 overdue inventories are discarded.
+460,39.878675409493255,There occurs 3 demands. 0 overdue inventories are discarded.
+461,40.0,There occurs 1 demands. 0 overdue inventories are discarded.
+462,40.26008061172649,Order 31 goods.
+463,40.441860107785295,There occurs 2 demands. 0 overdue inventories are discarded.
+464,40.456755086354306,There occurs 2 demands. 0 overdue inventories are discarded.
+465,40.47150351775499,There occurs 1 demands. 0 overdue inventories are discarded.
+466,40.51438209250376,There occurs 2 demands. 0 overdue inventories are discarded.
+467,40.54897445092888,31 goods have arrived.
+468,40.82249160871258,There occurs 3 demands. 0 overdue inventories are discarded.
+469,40.86372533712301,There occurs 4 demands. 0 overdue inventories are discarded.
+470,41.0,There occurs 3 demands. 0 overdue inventories are discarded.
+471,41.03354509288424,Order 31 goods.
+472,41.31788236534878,There occurs 3 demands. 0 overdue inventories are discarded.
+473,41.36523971334395,There occurs 3 demands. 0 overdue inventories are discarded.
+474,41.481356202690236,There occurs 2 demands. 0 overdue inventories are discarded.
+475,41.535740224598406,There occurs 3 demands. 0 overdue inventories are discarded.
+476,41.67954889438576,There occurs 2 demands. 0 overdue inventories are discarded.
+477,41.96855293266459,There occurs 3 demands. 0 overdue inventories are discarded.
+478,42.0,There occurs 4 demands. 0 overdue inventories are discarded.
+479,42.000945119417764,Order 37 goods.
+480,42.01923076110951,There occurs 3 demands. 0 overdue inventories are discarded.
+481,42.086421355799786,There occurs 3 demands. 0 overdue inventories are discarded.
+482,42.120215809164236,There occurs 3 demands. 0 overdue inventories are discarded.
+483,42.129040074791,There occurs 1 demands. 0 overdue inventories are discarded.
+484,42.26378125191454,There occurs 3 demands. 0 overdue inventories are discarded.
+485,42.365046108205995,There occurs 2 demands. 0 overdue inventories are discarded.
+486,42.5302589470847,There occurs 2 demands. 0 overdue inventories are discarded.
+487,42.61293277710888,There occurs 4 demands. 0 overdue inventories are discarded.
+488,42.6148248126391,There occurs 2 demands. 0 overdue inventories are discarded.
+489,42.65206671387604,There occurs 1 demands. 0 overdue inventories are discarded.
+490,42.65378528787636,There occurs 3 demands. 0 overdue inventories are discarded.
+491,42.79470620872074,There occurs 2 demands. 0 overdue inventories are discarded.
+492,42.99620460445804,37 goods have arrived.
+493,43.0,There occurs 1 demands. 0 overdue inventories are discarded.
+494,43.052516075294015,Order 30 goods.
+495,43.071380651999824,There occurs 3 demands. 0 overdue inventories are discarded.
+496,43.114047055097785,There occurs 3 demands. 0 overdue inventories are discarded.
+497,43.147784026049756,There occurs 3 demands. 0 overdue inventories are discarded.
+498,43.173343424974284,There occurs 4 demands. 0 overdue inventories are discarded.
+499,43.280474883680206,There occurs 1 demands. 0 overdue inventories are discarded.
+500,43.840365263587124,There occurs 3 demands. 0 overdue inventories are discarded.
+501,43.841948724473994,There occurs 2 demands. 0 overdue inventories are discarded.
+502,43.85844367695689,There occurs 2 demands. 0 overdue inventories are discarded.
+503,43.868404978869144,There occurs 2 demands. 0 overdue inventories are discarded.
+504,43.87436917817059,There occurs 3 demands. 0 overdue inventories are discarded.
+505,43.91764836960775,There occurs 1 demands. 0 overdue inventories are discarded.
+506,43.93830057432721,30 goods have arrived.
+507,44.0,There occurs 3 demands. 0 overdue inventories are discarded.
+508,44.08660476940513,Order 30 goods.
+509,44.137679889209,There occurs 2 demands. 0 overdue inventories are discarded.
+510,44.14549760115508,There occurs 3 demands. 0 overdue inventories are discarded.
+511,44.38592265859594,There occurs 2 demands. 0 overdue inventories are discarded.
+512,44.58200993261368,There occurs 3 demands. 0 overdue inventories are discarded.
+513,44.64952360530088,There occurs 3 demands. 0 overdue inventories are discarded.
+514,44.676400893865,30 goods have arrived.
+515,44.92280910722057,There occurs 1 demands. 0 overdue inventories are discarded.
+516,44.965616814417636,There occurs 3 demands. 0 overdue inventories are discarded.
+517,45.0,There occurs 2 demands. 0 overdue inventories are discarded.
+518,45.22928799910457,Order 30 goods.
+519,45.40295527734485,There occurs 3 demands. 0 overdue inventories are discarded.
+520,45.49036800930432,There occurs 3 demands. 0 overdue inventories are discarded.
+521,45.60410806907214,There occurs 2 demands. 0 overdue inventories are discarded.
+522,45.8858755047715,There occurs 2 demands. 0 overdue inventories are discarded.
+523,45.90455542636185,There occurs 2 demands. 0 overdue inventories are discarded.
+524,46.0,There occurs 4 demands. 0 overdue inventories are discarded.
+525,46.01337434991037,Order 35 goods.
+526,46.0631038549124,There occurs 4 demands. 0 overdue inventories are discarded.
+527,46.080490053479394,There occurs 3 demands. 0 overdue inventories are discarded.
+528,46.112533830926665,There occurs 2 demands. 0 overdue inventories are discarded.
+529,46.12527089414797,There occurs 2 demands. 0 overdue inventories are discarded.
+530,46.41844872199758,There occurs 3 demands. 0 overdue inventories are discarded.
+531,46.42677949645483,There occurs 3 demands. 0 overdue inventories are discarded.
+532,46.43059577183697,There occurs 2 demands. 0 overdue inventories are discarded.
+533,46.484200213268664,There occurs 2 demands. 0 overdue inventories are discarded.
+534,46.66911276587705,There occurs 2 demands. 0 overdue inventories are discarded.
+535,46.751665126139514,There occurs 3 demands. 0 overdue inventories are discarded.
+536,46.8413397524909,35 goods have arrived.
+537,46.96491994943993,There occurs 2 demands. 0 overdue inventories are discarded.
+538,47.0,There occurs 1 demands. 0 overdue inventories are discarded.
+539,47.02129307856914,Order 29 goods.
+540,47.16378284789568,There occurs 2 demands. 0 overdue inventories are discarded.
+541,47.18901061131359,There occurs 3 demands. 0 overdue inventories are discarded.
+542,47.372242711813584,There occurs 2 demands. 0 overdue inventories are discarded.
+543,47.48281740152637,There occurs 2 demands. 0 overdue inventories are discarded.
+544,47.48826483119044,There occurs 3 demands. 0 overdue inventories are discarded.
+545,47.51161107364148,There occurs 3 demands. 0 overdue inventories are discarded.
+546,47.554231680211764,There occurs 2 demands. 0 overdue inventories are discarded.
+547,47.56937559971625,There occurs 3 demands. 0 overdue inventories are discarded.
+548,47.73007880122422,There occurs 2 demands. 0 overdue inventories are discarded.
+549,47.785615032012984,There occurs 2 demands. 0 overdue inventories are discarded.
+550,47.8360867990379,There occurs 1 demands. 0 overdue inventories are discarded.
+551,47.89553682137934,29 goods have arrived.
+552,47.93911799058389,There occurs 3 demands. 0 overdue inventories are discarded.
+553,48.0,There occurs 1 demands. 0 overdue inventories are discarded.
+554,48.102246878888614,Order 29 goods.
+555,48.14473208750112,There occurs 2 demands. 0 overdue inventories are discarded.
+556,48.23504848295774,There occurs 2 demands. 0 overdue inventories are discarded.
+557,48.375369353317275,There occurs 2 demands. 0 overdue inventories are discarded.
+558,48.47243962434219,There occurs 4 demands. 0 overdue inventories are discarded.
+559,48.489011978778365,There occurs 1 demands. 0 overdue inventories are discarded.
+560,48.76020711420137,There occurs 3 demands. 0 overdue inventories are discarded.
+561,48.91327925596052,There occurs 2 demands. 0 overdue inventories are discarded.
+562,48.922347077866206,There occurs 3 demands. 0 overdue inventories are discarded.
+563,48.9374799811892,29 goods have arrived.
+564,49.0,There occurs 2 demands. 0 overdue inventories are discarded.
+565,49.06208713607722,Order 21 goods.
+566,49.064008137647434,There occurs 1 demands. 0 overdue inventories are discarded.
+567,49.22914042410775,There occurs 2 demands. 0 overdue inventories are discarded.
+568,49.25264354559202,There occurs 3 demands. 0 overdue inventories are discarded.
+569,49.27067069726597,There occurs 2 demands. 0 overdue inventories are discarded.
+570,49.32016256965012,There occurs 1 demands. 0 overdue inventories are discarded.
+571,49.3679657575657,There occurs 3 demands. 0 overdue inventories are discarded.
+572,49.45660822614675,There occurs 4 demands. 0 overdue inventories are discarded.
+573,49.528221016571806,There occurs 2 demands. 0 overdue inventories are discarded.
+574,49.687263797871545,There occurs 1 demands. 0 overdue inventories are discarded.
+575,49.714110315683556,There occurs 3 demands. 0 overdue inventories are discarded.
+576,49.721606889538705,There occurs 3 demands. 0 overdue inventories are discarded.
+577,49.76015963064012,There occurs 3 demands. 0 overdue inventories are discarded.
+578,49.87209525128997,21 goods have arrived.
+579,50.0,There occurs 4 demands. 0 overdue inventories are discarded.
+580,50.12144674146351,Order 32 goods.
+581,50.13105112090118,There occurs 2 demands. 0 overdue inventories are discarded.
+582,50.152346723527806,There occurs 4 demands. 0 overdue inventories are discarded.
+583,50.18694295695763,There occurs 3 demands. 0 overdue inventories are discarded.
+584,50.28703276170879,There occurs 3 demands. 0 overdue inventories are discarded.
+585,50.311739945004284,There occurs 3 demands. 0 overdue inventories are discarded.
+586,50.33640538346729,There occurs 3 demands. 0 overdue inventories are discarded.
+587,50.35417497588091,There occurs 2 demands. 0 overdue inventories are discarded.
+588,50.38395026802761,There occurs 3 demands. 0 overdue inventories are discarded.
+589,50.53004234113404,There occurs 2 demands. 0 overdue inventories are discarded.
+590,50.69789969791896,There occurs 4 demands. 0 overdue inventories are discarded.
+591,50.72051376064033,32 goods have arrived.
+592,50.850277871551455,There occurs 1 demands. 0 overdue inventories are discarded.
+593,50.97246219627403,There occurs 3 demands. 0 overdue inventories are discarded.
+594,51.0,There occurs 1 demands. 0 overdue inventories are discarded.
+595,51.1793200018805,Order 34 goods.
+596,51.20535147002228,There occurs 2 demands. 0 overdue inventories are discarded.
+597,51.32122968463048,There occurs 2 demands. 0 overdue inventories are discarded.
+598,51.363827530738284,There occurs 2 demands. 0 overdue inventories are discarded.
+599,51.525968355811166,There occurs 4 demands. 0 overdue inventories are discarded.
+600,51.64972708494539,34 goods have arrived.
+601,51.86549153596208,There occurs 2 demands. 0 overdue inventories are discarded.
+602,51.92414692517902,There occurs 2 demands. 0 overdue inventories are discarded.
+603,52.0,There occurs 2 demands. 0 overdue inventories are discarded.
+604,52.03490868759296,Order 34 goods.
+605,52.2844343519937,There occurs 2 demands. 0 overdue inventories are discarded.
+606,52.393276005505676,There occurs 3 demands. 0 overdue inventories are discarded.
+607,52.41026398989642,There occurs 2 demands. 0 overdue inventories are discarded.
+608,52.44341595129007,There occurs 2 demands. 0 overdue inventories are discarded.
+609,52.621979813158084,There occurs 3 demands. 0 overdue inventories are discarded.
+610,52.64772412887921,There occurs 1 demands. 0 overdue inventories are discarded.
+611,52.82911898248157,There occurs 2 demands. 0 overdue inventories are discarded.
+612,52.85193544086928,There occurs 2 demands. 0 overdue inventories are discarded.
+613,52.88751682790455,There occurs 2 demands. 0 overdue inventories are discarded.
+614,53.0,There occurs 2 demands. 0 overdue inventories are discarded.
+615,53.02951983214536,Order 37 goods.
+616,53.09991814738826,There occurs 2 demands. 0 overdue inventories are discarded.
+617,53.16843027273031,There occurs 4 demands. 0 overdue inventories are discarded.
+618,53.43094392472082,There occurs 3 demands. 0 overdue inventories are discarded.
+619,53.66279231168228,There occurs 2 demands. 0 overdue inventories are discarded.
+620,53.7599720932267,37 goods have arrived.
+621,53.775076170937446,There occurs 3 demands. 0 overdue inventories are discarded.
+622,54.0,There occurs 3 demands. 0 overdue inventories are discarded.
+623,54.15579312402268,Order 37 goods.
+624,54.33965312103263,There occurs 2 demands. 0 overdue inventories are discarded.
+625,54.389794667522665,There occurs 1 demands. 0 overdue inventories are discarded.
+626,54.413566153020874,There occurs 1 demands. 0 overdue inventories are discarded.
+627,54.42353425804977,There occurs 3 demands. 0 overdue inventories are discarded.
+628,54.4425644055159,There occurs 3 demands. 0 overdue inventories are discarded.
+629,54.48260771268987,There occurs 3 demands. 0 overdue inventories are discarded.
+630,54.48448441208317,There occurs 3 demands. 0 overdue inventories are discarded.
+631,54.82224686490886,There occurs 2 demands. 0 overdue inventories are discarded.
+632,54.98201412151612,There occurs 1 demands. 0 overdue inventories are discarded.
+633,55.0,There occurs 4 demands. 0 overdue inventories are discarded.
+634,55.01076975484145,Order 40 goods.
+635,55.45260026505142,There occurs 1 demands. 0 overdue inventories are discarded.
+636,55.667167767437654,There occurs 2 demands. 0 overdue inventories are discarded.
+637,55.70358778414541,There occurs 2 demands. 0 overdue inventories are discarded.
+638,55.776557168176424,There occurs 2 demands. 0 overdue inventories are discarded.
+639,55.77714165651097,There occurs 2 demands. 0 overdue inventories are discarded.
+640,55.929071716869714,There occurs 1 demands. 0 overdue inventories are discarded.
+641,55.95520050400674,There occurs 3 demands. 0 overdue inventories are discarded.
+642,56.0,40 goods have arrived.
+643,56.19012805060893,Order 40 goods.
+644,56.381271357652324,There occurs 3 demands. 0 overdue inventories are discarded.
+645,56.40588578363568,There occurs 2 demands. 0 overdue inventories are discarded.
+646,56.63869064276485,There occurs 1 demands. 0 overdue inventories are discarded.
+647,56.65170117535891,There occurs 2 demands. 0 overdue inventories are discarded.
+648,56.810287129226445,There occurs 3 demands. 0 overdue inventories are discarded.
+649,56.86673627979923,There occurs 3 demands. 0 overdue inventories are discarded.
+650,56.87745370923539,There occurs 3 demands. 0 overdue inventories are discarded.
+651,57.0,There occurs 4 demands. 0 overdue inventories are discarded.
+652,57.59952124731987,Order 34 goods.
+653,57.70917075299396,There occurs 1 demands. 0 overdue inventories are discarded.
+654,57.715698086539895,There occurs 2 demands. 0 overdue inventories are discarded.
+655,57.75511581105741,34 goods have arrived.
+656,57.75761763197539,There occurs 3 demands. 0 overdue inventories are discarded.
+657,57.79805099560789,There occurs 2 demands. 0 overdue inventories are discarded.
+658,58.0,There occurs 2 demands. 0 overdue inventories are discarded.
+659,58.008785616304515,Order 34 goods.
+660,58.01520099891763,There occurs 3 demands. 0 overdue inventories are discarded.
+661,58.11644876008372,There occurs 2 demands. 0 overdue inventories are discarded.
+662,58.427727128619594,There occurs 2 demands. 0 overdue inventories are discarded.
+663,58.47633159386308,There occurs 2 demands. 0 overdue inventories are discarded.
+664,58.78296116737945,There occurs 2 demands. 0 overdue inventories are discarded.
+665,58.80635212392365,There occurs 3 demands. 0 overdue inventories are discarded.
+666,59.0,There occurs 2 demands. 0 overdue inventories are discarded.
+667,59.0510628652999,Order 26 goods.
+668,59.086170802441316,There occurs 2 demands. 0 overdue inventories are discarded.
+669,59.16788175247437,There occurs 2 demands. 0 overdue inventories are discarded.
+670,59.23002686206242,There occurs 2 demands. 0 overdue inventories are discarded.
+671,59.23316008428412,There occurs 1 demands. 0 overdue inventories are discarded.
+672,59.25608240820748,There occurs 3 demands. 0 overdue inventories are discarded.
+673,59.51305441176978,There occurs 4 demands. 0 overdue inventories are discarded.
+674,59.53807188494293,There occurs 3 demands. 0 overdue inventories are discarded.
+675,59.5693195966435,There occurs 2 demands. 0 overdue inventories are discarded.
+676,59.580910215118784,There occurs 3 demands. 0 overdue inventories are discarded.
+677,59.69774346923992,There occurs 3 demands. 0 overdue inventories are discarded.
+678,59.972481661337156,There occurs 2 demands. 0 overdue inventories are discarded.
+679,59.980191636454535,26 goods have arrived.
+680,60.0,There occurs 1 demands. 0 overdue inventories are discarded.
+681,60.265520907056626,Order 28 goods.
+682,60.43722301542661,There occurs 3 demands. 0 overdue inventories are discarded.
+683,60.454303289888195,There occurs 4 demands. 0 overdue inventories are discarded.
+684,60.45737104002025,There occurs 3 demands. 0 overdue inventories are discarded.
+685,60.4648336472737,There occurs 2 demands. 0 overdue inventories are discarded.
+686,60.62415216582894,There occurs 3 demands. 0 overdue inventories are discarded.
+687,60.65753420183242,There occurs 3 demands. 0 overdue inventories are discarded.
+688,60.72386326980034,There occurs 1 demands. 0 overdue inventories are discarded.
+689,60.793027233018925,28 goods have arrived.
+690,60.88928770641149,There occurs 1 demands. 0 overdue inventories are discarded.
+691,60.90258393336813,There occurs 2 demands. 0 overdue inventories are discarded.
+692,60.95098686955947,There occurs 2 demands. 0 overdue inventories are discarded.
+693,61.0,There occurs 2 demands. 0 overdue inventories are discarded.
+694,61.03904318209746,Order 26 goods.
+695,61.03988466689926,There occurs 3 demands. 0 overdue inventories are discarded.
+696,61.139660821215095,There occurs 2 demands. 0 overdue inventories are discarded.
+697,61.19990523428921,There occurs 1 demands. 0 overdue inventories are discarded.
+698,61.419927914721704,There occurs 3 demands. 0 overdue inventories are discarded.
+699,61.67035374754103,There occurs 1 demands. 0 overdue inventories are discarded.
+700,61.715257611123626,There occurs 4 demands. 0 overdue inventories are discarded.
+701,61.82321592144595,There occurs 2 demands. 0 overdue inventories are discarded.
+702,61.86143928867946,There occurs 2 demands. 0 overdue inventories are discarded.
+703,61.86995145042175,There occurs 2 demands. 0 overdue inventories are discarded.
+704,61.91384687054806,There occurs 2 demands. 0 overdue inventories are discarded.
+705,61.95750464057655,26 goods have arrived.
+706,62.0,There occurs 3 demands. 0 overdue inventories are discarded.
+707,62.00020122321488,Order 25 goods.
+708,62.090034270606516,There occurs 1 demands. 0 overdue inventories are discarded.
+709,62.130200110721226,There occurs 3 demands. 0 overdue inventories are discarded.
+710,62.13686347127257,There occurs 3 demands. 0 overdue inventories are discarded.
+711,62.24793421969472,There occurs 2 demands. 0 overdue inventories are discarded.
+712,62.24795639273823,There occurs 1 demands. 0 overdue inventories are discarded.
+713,62.25575742026137,There occurs 1 demands. 0 overdue inventories are discarded.
+714,62.453276248020096,There occurs 1 demands. 0 overdue inventories are discarded.
+715,62.61295844490396,There occurs 2 demands. 0 overdue inventories are discarded.
+716,63.0,25 goods have arrived.
+717,63.12710885574586,Order 25 goods.
+718,63.21674393222231,There occurs 2 demands. 0 overdue inventories are discarded.
+719,63.49350317082749,There occurs 2 demands. 0 overdue inventories are discarded.
+720,63.59478573004279,There occurs 2 demands. 0 overdue inventories are discarded.
+721,63.630503280204806,There occurs 2 demands. 0 overdue inventories are discarded.
+722,63.885931307056445,There occurs 3 demands. 0 overdue inventories are discarded.
+723,64.0,There occurs 1 demands. 0 overdue inventories are discarded.
+724,64.06137169316533,Order 26 goods.
+725,64.07195682378983,There occurs 2 demands. 0 overdue inventories are discarded.
+726,64.17412305337368,There occurs 2 demands. 0 overdue inventories are discarded.
+727,64.50675106315006,There occurs 1 demands. 0 overdue inventories are discarded.
+728,64.54154665008554,There occurs 3 demands. 0 overdue inventories are discarded.
+729,64.56503285360772,There occurs 2 demands. 0 overdue inventories are discarded.
+730,64.71930378255247,There occurs 4 demands. 0 overdue inventories are discarded.
+731,64.83912398335447,There occurs 2 demands. 0 overdue inventories are discarded.
+732,64.84411034260046,There occurs 3 demands. 0 overdue inventories are discarded.
+733,64.84846510779195,There occurs 3 demands. 0 overdue inventories are discarded.
+734,64.99290461292034,There occurs 3 demands. 0 overdue inventories are discarded.
+735,65.0,26 goods have arrived.
+736,65.01898999561601,Order 25 goods.
+737,65.20381284849124,There occurs 3 demands. 0 overdue inventories are discarded.
+738,65.29529351115202,There occurs 4 demands. 0 overdue inventories are discarded.
+739,65.32292214050099,There occurs 1 demands. 0 overdue inventories are discarded.
+740,65.37050418972376,There occurs 2 demands. 0 overdue inventories are discarded.
+741,65.67396530035386,There occurs 3 demands. 0 overdue inventories are discarded.
+742,65.68581816404448,25 goods have arrived.
+743,65.69702366740438,There occurs 2 demands. 0 overdue inventories are discarded.
+744,65.759267060633,There occurs 2 demands. 0 overdue inventories are discarded.
+745,65.96083028655411,There occurs 2 demands. 0 overdue inventories are discarded.
+746,65.99127849542975,There occurs 1 demands. 0 overdue inventories are discarded.
+747,66.0,There occurs 1 demands. 0 overdue inventories are discarded.
+748,66.02130406394643,Order 21 goods.
+749,66.09979875224516,There occurs 1 demands. 0 overdue inventories are discarded.
+750,66.2359755108135,There occurs 3 demands. 0 overdue inventories are discarded.
+751,66.31010714486607,There occurs 3 demands. 0 overdue inventories are discarded.
+752,66.5672160942047,There occurs 3 demands. 0 overdue inventories are discarded.
+753,66.60692564933747,There occurs 3 demands. 0 overdue inventories are discarded.
+754,66.62144077939496,There occurs 3 demands. 0 overdue inventories are discarded.
+755,66.81827028895164,There occurs 4 demands. 0 overdue inventories are discarded.
+756,66.83748317557573,There occurs 3 demands. 0 overdue inventories are discarded.
+757,66.84213689531607,There occurs 2 demands. 0 overdue inventories are discarded.
+758,66.95755553102087,There occurs 3 demands. 0 overdue inventories are discarded.
+759,66.99299936557549,There occurs 2 demands. 0 overdue inventories are discarded.
+760,66.99467445874095,21 goods have arrived.
+761,67.0,There occurs 4 demands. 0 overdue inventories are discarded.
+762,67.00312172858098,Order 34 goods.
+763,67.00779220373454,There occurs 2 demands. 0 overdue inventories are discarded.
+764,67.03085609076138,There occurs 3 demands. 0 overdue inventories are discarded.
+765,67.24876424308248,There occurs 2 demands. 0 overdue inventories are discarded.
+766,67.32236163182573,There occurs 2 demands. 0 overdue inventories are discarded.
+767,67.39048114310708,There occurs 3 demands. 0 overdue inventories are discarded.
+768,67.39675591352537,There occurs 1 demands. 0 overdue inventories are discarded.
+769,67.53155621171642,There occurs 2 demands. 0 overdue inventories are discarded.
+770,67.53994556632112,There occurs 2 demands. 0 overdue inventories are discarded.
+771,67.6256346007949,There occurs 1 demands. 0 overdue inventories are discarded.
+772,67.63135044085206,There occurs 2 demands. 0 overdue inventories are discarded.
+773,67.66133624003189,34 goods have arrived.
+774,67.72477255514868,There occurs 2 demands. 0 overdue inventories are discarded.
+775,68.0,There occurs 2 demands. 0 overdue inventories are discarded.
+776,68.01002259981048,Order 24 goods.
+777,68.02100082097867,There occurs 1 demands. 0 overdue inventories are discarded.
+778,68.06118026146495,There occurs 3 demands. 0 overdue inventories are discarded.
+779,68.0924200334264,There occurs 2 demands. 0 overdue inventories are discarded.
+780,68.15505895251071,There occurs 2 demands. 0 overdue inventories are discarded.
+781,68.24592642079111,There occurs 1 demands. 0 overdue inventories are discarded.
+782,68.33063638544529,There occurs 3 demands. 0 overdue inventories are discarded.
+783,68.34624781993708,There occurs 3 demands. 0 overdue inventories are discarded.
+784,68.40136401635358,There occurs 2 demands. 0 overdue inventories are discarded.
+785,68.41721865153932,There occurs 2 demands. 0 overdue inventories are discarded.
+786,68.52089517932069,There occurs 4 demands. 0 overdue inventories are discarded.
+787,68.60836224965811,There occurs 1 demands. 0 overdue inventories are discarded.
+788,68.65853801779556,There occurs 2 demands. 0 overdue inventories are discarded.
+789,68.67225561268903,There occurs 4 demands. 0 overdue inventories are discarded.
+790,68.79484776842048,24 goods have arrived.
+791,68.8098404122183,There occurs 2 demands. 0 overdue inventories are discarded.
+792,68.82507608312976,There occurs 2 demands. 0 overdue inventories are discarded.
+793,68.85211900612236,There occurs 1 demands. 0 overdue inventories are discarded.
+794,68.85523362791365,There occurs 2 demands. 0 overdue inventories are discarded.
+795,69.0,There occurs 2 demands. 0 overdue inventories are discarded.
+796,69.20583547255993,Order 39 goods.
+797,69.20588479562755,There occurs 2 demands. 0 overdue inventories are discarded.
+798,69.25352860577736,There occurs 2 demands. 0 overdue inventories are discarded.
+799,69.44539373733102,There occurs 4 demands. 0 overdue inventories are discarded.
+800,69.51739379205488,There occurs 1 demands. 0 overdue inventories are discarded.
+801,69.57333713531504,There occurs 3 demands. 0 overdue inventories are discarded.
+802,69.64696035295212,There occurs 1 demands. 0 overdue inventories are discarded.
+803,69.87470028842783,There occurs 3 demands. 0 overdue inventories are discarded.
+804,69.89380969615223,There occurs 3 demands. 0 overdue inventories are discarded.
+805,70.0,39 goods have arrived.
+806,70.3323246340418,Order 39 goods.
+807,70.60502219058127,There occurs 3 demands. 0 overdue inventories are discarded.
+808,70.64915041481903,There occurs 4 demands. 0 overdue inventories are discarded.
+809,70.82794018573728,There occurs 1 demands. 0 overdue inventories are discarded.
+810,70.92533766204195,There occurs 2 demands. 0 overdue inventories are discarded.
+811,70.95418356812598,There occurs 4 demands. 0 overdue inventories are discarded.
+812,70.96966439970397,There occurs 1 demands. 0 overdue inventories are discarded.
+813,71.0,There occurs 3 demands. 0 overdue inventories are discarded.
+814,71.23455670585663,Order 37 goods.
+815,71.30868053174567,There occurs 2 demands. 0 overdue inventories are discarded.
+816,71.31679996622977,There occurs 2 demands. 0 overdue inventories are discarded.
+817,71.33948924021294,There occurs 1 demands. 0 overdue inventories are discarded.
+818,71.35655168138338,There occurs 2 demands. 0 overdue inventories are discarded.
+819,71.41573000340975,There occurs 2 demands. 0 overdue inventories are discarded.
+820,71.76924537801864,There occurs 3 demands. 0 overdue inventories are discarded.
+821,71.79711746125633,There occurs 3 demands. 0 overdue inventories are discarded.
+822,71.82409542440013,There occurs 2 demands. 0 overdue inventories are discarded.
+823,71.86926447583919,37 goods have arrived.
+824,71.88758434726164,There occurs 1 demands. 0 overdue inventories are discarded.
+825,71.90226861010258,There occurs 2 demands. 0 overdue inventories are discarded.
+826,71.90981744106168,There occurs 2 demands. 0 overdue inventories are discarded.
+827,71.93777590235862,There occurs 1 demands. 0 overdue inventories are discarded.
+828,72.0,There occurs 4 demands. 0 overdue inventories are discarded.
+829,72.00297051462402,Order 27 goods.
+830,72.1108258932183,There occurs 1 demands. 0 overdue inventories are discarded.
+831,72.13469313055244,There occurs 3 demands. 0 overdue inventories are discarded.
+832,72.16595119314964,There occurs 2 demands. 0 overdue inventories are discarded.
+833,72.25707179298878,There occurs 2 demands. 0 overdue inventories are discarded.
+834,72.29592370716718,There occurs 2 demands. 0 overdue inventories are discarded.
+835,72.3101480080816,There occurs 1 demands. 0 overdue inventories are discarded.
+836,72.34938657210834,There occurs 2 demands. 0 overdue inventories are discarded.
+837,72.47296068013722,There occurs 1 demands. 0 overdue inventories are discarded.
+838,72.54206464905403,There occurs 1 demands. 0 overdue inventories are discarded.
+839,72.55903073427305,There occurs 4 demands. 0 overdue inventories are discarded.
+840,72.59727262230976,There occurs 1 demands. 0 overdue inventories are discarded.
+841,72.61023097722554,There occurs 2 demands. 0 overdue inventories are discarded.
+842,72.62450698309289,There occurs 2 demands. 0 overdue inventories are discarded.
+843,72.67371018742385,There occurs 2 demands. 0 overdue inventories are discarded.
+844,72.69316919191678,There occurs 2 demands. 0 overdue inventories are discarded.
+845,72.77004708348232,27 goods have arrived.
+846,72.8948697757461,There occurs 4 demands. 0 overdue inventories are discarded.
+847,72.94761261050081,There occurs 3 demands. 0 overdue inventories are discarded.
+848,73.0,There occurs 3 demands. 0 overdue inventories are discarded.
+849,73.52320253940782,Order 38 goods.
+850,73.53908023484988,38 goods have arrived.
+851,73.62047279075628,There occurs 1 demands. 0 overdue inventories are discarded.
+852,73.70193870708991,There occurs 3 demands. 0 overdue inventories are discarded.
+853,73.7346412290504,There occurs 2 demands. 0 overdue inventories are discarded.
+854,73.82750257646023,There occurs 4 demands. 0 overdue inventories are discarded.
+855,73.88076722852618,There occurs 3 demands. 0 overdue inventories are discarded.
+856,73.9530597063104,There occurs 2 demands. 0 overdue inventories are discarded.
+857,74.0,There occurs 3 demands. 0 overdue inventories are discarded.
+858,74.03151398474189,Order 38 goods.
+859,74.07055507210684,There occurs 1 demands. 0 overdue inventories are discarded.
+860,74.28633892921464,There occurs 2 demands. 0 overdue inventories are discarded.
+861,74.35000390519625,There occurs 2 demands. 0 overdue inventories are discarded.
+862,74.41816244785062,There occurs 2 demands. 0 overdue inventories are discarded.
+863,74.45303479775477,There occurs 2 demands. 0 overdue inventories are discarded.
+864,74.6761446726475,There occurs 3 demands. 0 overdue inventories are discarded.
+865,74.67955122837587,There occurs 4 demands. 0 overdue inventories are discarded.
+866,74.68175697791845,There occurs 3 demands. 0 overdue inventories are discarded.
+867,74.69597062343725,There occurs 2 demands. 0 overdue inventories are discarded.
+868,74.78814683392486,There occurs 3 demands. 0 overdue inventories are discarded.
+869,75.0,There occurs 2 demands. 0 overdue inventories are discarded.
+870,75.26808315366601,Order 44 goods.
+871,75.74409746686959,There occurs 1 demands. 0 overdue inventories are discarded.
+872,75.89698905516677,There occurs 2 demands. 0 overdue inventories are discarded.
+873,75.97573507384946,There occurs 4 demands. 0 overdue inventories are discarded.
+874,76.0,44 goods have arrived.
+875,76.066677179793,Order 44 goods.
+876,76.21332460926763,There occurs 3 demands. 0 overdue inventories are discarded.
+877,76.30036515685622,There occurs 1 demands. 0 overdue inventories are discarded.
+878,76.30056409600198,There occurs 2 demands. 0 overdue inventories are discarded.
+879,76.3461162488037,There occurs 1 demands. 0 overdue inventories are discarded.
+880,76.45366954707234,There occurs 2 demands. 0 overdue inventories are discarded.
+881,76.67607948538665,There occurs 2 demands. 0 overdue inventories are discarded.
+882,76.72380149375591,There occurs 2 demands. 0 overdue inventories are discarded.
+883,76.74709500321617,There occurs 3 demands. 0 overdue inventories are discarded.
+884,76.76303580197263,There occurs 1 demands. 0 overdue inventories are discarded.
+885,77.0,There occurs 2 demands. 0 overdue inventories are discarded.
+886,77.03915779618134,Order 26 goods.
+887,77.1084306907437,There occurs 4 demands. 0 overdue inventories are discarded.
+888,77.70897207152262,There occurs 3 demands. 0 overdue inventories are discarded.
+889,77.73672556189005,There occurs 2 demands. 0 overdue inventories are discarded.
+890,77.76128423785019,There occurs 3 demands. 0 overdue inventories are discarded.
+891,77.88202663386097,There occurs 3 demands. 0 overdue inventories are discarded.
+892,77.92863836239275,26 goods have arrived.
+893,78.0,There occurs 3 demands. 0 overdue inventories are discarded.
+894,78.04327538643882,Order 26 goods.
+895,78.07284115146956,There occurs 2 demands. 0 overdue inventories are discarded.
+896,78.12292111060923,There occurs 1 demands. 0 overdue inventories are discarded.
+897,78.1457769326342,There occurs 2 demands. 0 overdue inventories are discarded.
+898,78.16120887717689,There occurs 2 demands. 0 overdue inventories are discarded.
+899,78.27419314164587,There occurs 4 demands. 0 overdue inventories are discarded.
+900,78.38623286413146,There occurs 3 demands. 0 overdue inventories are discarded.
+901,78.41202094072547,There occurs 2 demands. 0 overdue inventories are discarded.
+902,78.56254888536989,There occurs 3 demands. 0 overdue inventories are discarded.
+903,78.57720882282904,There occurs 3 demands. 0 overdue inventories are discarded.
+904,78.6466554895691,There occurs 2 demands. 0 overdue inventories are discarded.
+905,79.0,There occurs 2 demands. 0 overdue inventories are discarded.
+906,79.05848587871006,Order 44 goods.
+907,79.08166010206062,There occurs 2 demands. 0 overdue inventories are discarded.
+908,79.15304940401545,There occurs 2 demands. 0 overdue inventories are discarded.
+909,79.25451448312373,There occurs 1 demands. 0 overdue inventories are discarded.
+910,79.42176162254634,There occurs 2 demands. 0 overdue inventories are discarded.
+911,79.56928519869328,There occurs 2 demands. 0 overdue inventories are discarded.
+912,79.70834929241155,There occurs 3 demands. 0 overdue inventories are discarded.
+913,79.755329051069,44 goods have arrived.
+914,79.87350991425274,There occurs 2 demands. 0 overdue inventories are discarded.
+915,80.0,There occurs 2 demands. 0 overdue inventories are discarded.
+916,80.22630451482591,Order 44 goods.
+917,80.30476715323483,There occurs 3 demands. 0 overdue inventories are discarded.
+918,80.33219813295776,There occurs 3 demands. 0 overdue inventories are discarded.
+919,80.37291293293683,There occurs 3 demands. 0 overdue inventories are discarded.
+920,80.43983733387279,There occurs 3 demands. 0 overdue inventories are discarded.
+921,80.49518815642422,There occurs 1 demands. 0 overdue inventories are discarded.
+922,80.70214042746427,There occurs 3 demands. 0 overdue inventories are discarded.
+923,80.73003352566114,There occurs 3 demands. 0 overdue inventories are discarded.
+924,80.78893976794686,There occurs 2 demands. 0 overdue inventories are discarded.
+925,80.98539569655705,There occurs 1 demands. 0 overdue inventories are discarded.
+926,80.99083508090057,There occurs 3 demands. 0 overdue inventories are discarded.
+927,81.0,There occurs 3 demands. 0 overdue inventories are discarded.
+928,81.09396828159339,Order 44 goods.
+929,81.36721819254045,There occurs 1 demands. 0 overdue inventories are discarded.
+930,81.43014537718167,There occurs 2 demands. 0 overdue inventories are discarded.
+931,81.4410975401778,There occurs 2 demands. 0 overdue inventories are discarded.
+932,81.45224523418811,There occurs 2 demands. 0 overdue inventories are discarded.
+933,81.52127564260985,There occurs 4 demands. 0 overdue inventories are discarded.
+934,81.61145785433736,44 goods have arrived.
+935,81.86602046330016,There occurs 4 demands. 0 overdue inventories are discarded.
+936,81.90653348099697,There occurs 2 demands. 0 overdue inventories are discarded.
+937,81.96225967602038,There occurs 2 demands. 0 overdue inventories are discarded.
+938,81.99143891780201,There occurs 3 demands. 0 overdue inventories are discarded.
+939,82.0,There occurs 3 demands. 0 overdue inventories are discarded.
+940,82.02149708491304,Order 25 goods.
+941,82.27820875228406,There occurs 2 demands. 0 overdue inventories are discarded.
+942,82.35380010408056,There occurs 4 demands. 0 overdue inventories are discarded.
+943,82.43859610425307,There occurs 2 demands. 0 overdue inventories are discarded.
+944,82.51962943630976,There occurs 2 demands. 0 overdue inventories are discarded.
+945,82.64633736205722,There occurs 3 demands. 0 overdue inventories are discarded.
+946,82.64657077528595,25 goods have arrived.
+947,82.79434088681327,There occurs 2 demands. 0 overdue inventories are discarded.
+948,82.83936798124972,There occurs 2 demands. 0 overdue inventories are discarded.
+949,82.97874920248572,There occurs 1 demands. 0 overdue inventories are discarded.
+950,83.0,There occurs 1 demands. 0 overdue inventories are discarded.
+951,83.082365161919,Order 25 goods.
+952,83.09762224268661,There occurs 1 demands. 0 overdue inventories are discarded.
+953,83.10176280416526,There occurs 2 demands. 0 overdue inventories are discarded.
+954,83.12919740492715,There occurs 1 demands. 0 overdue inventories are discarded.
+955,83.14632959683975,There occurs 2 demands. 0 overdue inventories are discarded.
+956,83.1836050850272,There occurs 2 demands. 0 overdue inventories are discarded.
+957,83.2689633120848,There occurs 2 demands. 0 overdue inventories are discarded.
+958,83.28414844464147,There occurs 3 demands. 0 overdue inventories are discarded.
+959,83.51274853551176,There occurs 3 demands. 0 overdue inventories are discarded.
+960,83.75892948880093,There occurs 3 demands. 0 overdue inventories are discarded.
+961,83.84079358986196,There occurs 3 demands. 0 overdue inventories are discarded.
+962,83.85203480856472,There occurs 4 demands. 0 overdue inventories are discarded.
+963,83.87504958353041,There occurs 3 demands. 0 overdue inventories are discarded.
+964,84.0,There occurs 3 demands. 0 overdue inventories are discarded.
+965,84.09557749349972,Order 51 goods.
+966,84.19833863948953,There occurs 2 demands. 0 overdue inventories are discarded.
+967,84.53659598008012,There occurs 4 demands. 0 overdue inventories are discarded.
+968,84.59546201316238,There occurs 2 demands. 0 overdue inventories are discarded.
+969,84.69693077112983,There occurs 3 demands. 0 overdue inventories are discarded.
+970,84.81650608080922,There occurs 2 demands. 0 overdue inventories are discarded.
+971,84.92526362300907,51 goods have arrived.
+972,85.0,There occurs 2 demands. 0 overdue inventories are discarded.
+973,85.17040767632656,Order 51 goods.
+974,85.2060696698828,There occurs 1 demands. 0 overdue inventories are discarded.
+975,85.28316735525259,There occurs 3 demands. 0 overdue inventories are discarded.
+976,85.42459972397928,There occurs 3 demands. 0 overdue inventories are discarded.
+977,85.51361939174873,There occurs 3 demands. 0 overdue inventories are discarded.
+978,85.69560842631113,There occurs 2 demands. 0 overdue inventories are discarded.
+979,85.89898207739377,There occurs 3 demands. 0 overdue inventories are discarded.
+980,86.0,There occurs 2 demands. 0 overdue inventories are discarded.
+981,86.1864290769836,Order 32 goods.
+982,86.49741633212886,There occurs 3 demands. 0 overdue inventories are discarded.
+983,86.52538385602533,There occurs 2 demands. 0 overdue inventories are discarded.
+984,86.63752895137428,There occurs 2 demands. 0 overdue inventories are discarded.
+985,86.67891340102959,There occurs 3 demands. 0 overdue inventories are discarded.
+986,86.69300649487668,There occurs 2 demands. 0 overdue inventories are discarded.
+987,86.74523178327476,There occurs 2 demands. 0 overdue inventories are discarded.
+988,86.8325236411639,There occurs 1 demands. 0 overdue inventories are discarded.
+989,86.88262098545843,There occurs 2 demands. 0 overdue inventories are discarded.
+990,86.91016447459006,There occurs 3 demands. 0 overdue inventories are discarded.
+991,87.0,32 goods have arrived.
+992,87.02408254478415,Order 32 goods.
+993,87.16885400435584,There occurs 2 demands. 0 overdue inventories are discarded.
+994,87.24105787994345,There occurs 2 demands. 0 overdue inventories are discarded.
+995,87.33380851335238,There occurs 2 demands. 0 overdue inventories are discarded.
+996,87.3902420847123,There occurs 2 demands. 0 overdue inventories are discarded.
+997,87.45482652120822,There occurs 2 demands. 0 overdue inventories are discarded.
+998,87.5408701603581,There occurs 3 demands. 0 overdue inventories are discarded.
+999,87.55391050383948,There occurs 1 demands. 0 overdue inventories are discarded.
+1000,87.58502774705998,There occurs 2 demands. 0 overdue inventories are discarded.
+1001,87.6272162934995,There occurs 2 demands. 0 overdue inventories are discarded.
+1002,87.73064964240365,There occurs 4 demands. 0 overdue inventories are discarded.
+1003,87.76095332642407,There occurs 2 demands. 0 overdue inventories are discarded.
+1004,87.76252237417674,There occurs 2 demands. 0 overdue inventories are discarded.
+1005,87.81429315636218,There occurs 3 demands. 0 overdue inventories are discarded.
+1006,87.9619754899964,There occurs 1 demands. 0 overdue inventories are discarded.
+1007,88.0,There occurs 3 demands. 0 overdue inventories are discarded.
+1008,88.01376841241591,Order 53 goods.
+1009,88.04672099721452,There occurs 1 demands. 0 overdue inventories are discarded.
+1010,88.10092462350941,There occurs 2 demands. 0 overdue inventories are discarded.
+1011,88.12187911454012,There occurs 2 demands. 0 overdue inventories are discarded.
+1012,88.38906496257454,There occurs 2 demands. 0 overdue inventories are discarded.
+1013,88.40486636243705,There occurs 3 demands. 0 overdue inventories are discarded.
+1014,88.50987199608302,There occurs 2 demands. 0 overdue inventories are discarded.
+1015,88.58399108705406,There occurs 2 demands. 0 overdue inventories are discarded.
+1016,88.70311098335189,There occurs 2 demands. 0 overdue inventories are discarded.
+1017,88.8607322070283,53 goods have arrived.
+1018,89.0,There occurs 2 demands. 0 overdue inventories are discarded.
+1019,89.08658239683074,Order 53 goods.
+1020,89.30115062356383,There occurs 3 demands. 0 overdue inventories are discarded.
+1021,89.30846280608213,There occurs 3 demands. 0 overdue inventories are discarded.
+1022,89.41498770131646,There occurs 2 demands. 0 overdue inventories are discarded.
+1023,89.56368911188916,There occurs 2 demands. 0 overdue inventories are discarded.
+1024,89.73645110226057,There occurs 1 demands. 0 overdue inventories are discarded.
+1025,89.78055190756672,There occurs 1 demands. 0 overdue inventories are discarded.
+1026,89.7847859512255,There occurs 3 demands. 0 overdue inventories are discarded.
+1027,89.80385016176956,There occurs 3 demands. 0 overdue inventories are discarded.
+1028,89.87284195963416,There occurs 3 demands. 0 overdue inventories are discarded.
+1029,89.8900794080694,There occurs 2 demands. 0 overdue inventories are discarded.
+1030,90.0,There occurs 3 demands. 0 overdue inventories are discarded.
+1031,90.06207403923278,Order 44 goods.
+1032,90.44354150960103,There occurs 2 demands. 0 overdue inventories are discarded.
+1033,90.56838805689199,There occurs 3 demands. 0 overdue inventories are discarded.
+1034,90.6843803858826,There occurs 3 demands. 0 overdue inventories are discarded.
+1035,90.76868787423072,There occurs 1 demands. 0 overdue inventories are discarded.
+1036,90.77878022053544,There occurs 3 demands. 0 overdue inventories are discarded.
+1037,90.77900891035449,There occurs 1 demands. 0 overdue inventories are discarded.
+1038,90.82571266914789,There occurs 2 demands. 0 overdue inventories are discarded.
+1039,90.87888437091047,There occurs 2 demands. 0 overdue inventories are discarded.
+1040,90.8833050890725,44 goods have arrived.
+1041,90.95715556239031,There occurs 2 demands. 0 overdue inventories are discarded.
+1042,90.96042791744391,There occurs 2 demands. 0 overdue inventories are discarded.
+1043,91.0,There occurs 1 demands. 0 overdue inventories are discarded.
+1044,91.01337226271683,Order 22 goods.
+1045,91.0191618446398,There occurs 3 demands. 0 overdue inventories are discarded.
+1046,91.07562337792137,There occurs 3 demands. 0 overdue inventories are discarded.
+1047,91.21457299700165,There occurs 2 demands. 0 overdue inventories are discarded.
+1048,91.24955633970431,There occurs 3 demands. 0 overdue inventories are discarded.
+1049,91.33080882961906,There occurs 3 demands. 0 overdue inventories are discarded.
+1050,91.40953945119614,There occurs 2 demands. 0 overdue inventories are discarded.
+1051,91.48585689463815,There occurs 3 demands. 0 overdue inventories are discarded.
+1052,91.55069497577803,There occurs 1 demands. 0 overdue inventories are discarded.
+1053,91.60866894714374,There occurs 2 demands. 0 overdue inventories are discarded.
+1054,91.68887845556469,There occurs 3 demands. 0 overdue inventories are discarded.
+1055,91.80255188250877,There occurs 2 demands. 0 overdue inventories are discarded.
+1056,91.90348631733829,There occurs 3 demands. 0 overdue inventories are discarded.
+1057,91.93023245287348,There occurs 3 demands. 0 overdue inventories are discarded.
+1058,92.0,22 goods have arrived.
+1059,92.07071565513331,Order 33 goods.
+1060,92.27711218178229,There occurs 3 demands. 0 overdue inventories are discarded.
+1061,92.3941765235423,There occurs 2 demands. 0 overdue inventories are discarded.
+1062,92.56373181320018,There occurs 2 demands. 0 overdue inventories are discarded.
+1063,92.5785631644036,There occurs 2 demands. 0 overdue inventories are discarded.
+1064,92.65424906095076,33 goods have arrived.
+1065,92.75576719230553,There occurs 2 demands. 0 overdue inventories are discarded.
+1066,92.83324874180684,There occurs 3 demands. 0 overdue inventories are discarded.
+1067,92.8477296457519,There occurs 2 demands. 0 overdue inventories are discarded.
+1068,92.90956078042545,There occurs 3 demands. 0 overdue inventories are discarded.
+1069,92.96795761089153,There occurs 2 demands. 0 overdue inventories are discarded.
+1070,92.9886597191093,There occurs 1 demands. 0 overdue inventories are discarded.
+1071,93.0,There occurs 3 demands. 0 overdue inventories are discarded.
+1072,93.12443004262103,Order 25 goods.
+1073,93.30893441868169,There occurs 3 demands. 0 overdue inventories are discarded.
+1074,93.48212678711018,There occurs 3 demands. 0 overdue inventories are discarded.
+1075,93.55853021465221,There occurs 2 demands. 0 overdue inventories are discarded.
+1076,93.64929236545927,There occurs 3 demands. 0 overdue inventories are discarded.
+1077,93.66780697053285,25 goods have arrived.
+1078,93.68452384252186,There occurs 1 demands. 0 overdue inventories are discarded.
+1079,93.74753289072912,There occurs 3 demands. 0 overdue inventories are discarded.
+1080,93.84295248062321,There occurs 2 demands. 0 overdue inventories are discarded.
+1081,93.93019957550919,There occurs 2 demands. 0 overdue inventories are discarded.
+1082,93.93495249736257,There occurs 2 demands. 0 overdue inventories are discarded.
+1083,94.0,There occurs 2 demands. 0 overdue inventories are discarded.
+1084,94.05713797789329,Order 23 goods.
+1085,94.22897600833244,There occurs 3 demands. 0 overdue inventories are discarded.
+1086,94.2782480676593,There occurs 2 demands. 0 overdue inventories are discarded.
+1087,94.6563364695387,There occurs 3 demands. 0 overdue inventories are discarded.
+1088,94.70113796370413,There occurs 3 demands. 0 overdue inventories are discarded.
+1089,94.74595642581906,23 goods have arrived.
+1090,94.78995220887099,There occurs 1 demands. 0 overdue inventories are discarded.
+1091,94.87571201128195,There occurs 2 demands. 0 overdue inventories are discarded.
+1092,94.94660088977224,There occurs 3 demands. 0 overdue inventories are discarded.
+1093,95.0,There occurs 3 demands. 0 overdue inventories are discarded.
+1094,95.0095677934088,Order 23 goods.
+1095,95.01598526704042,There occurs 3 demands. 0 overdue inventories are discarded.
+1096,95.07428405865133,There occurs 2 demands. 0 overdue inventories are discarded.
+1097,95.28873948972257,There occurs 3 demands. 0 overdue inventories are discarded.
+1098,95.46139431140672,There occurs 2 demands. 0 overdue inventories are discarded.
+1099,95.47981505613933,There occurs 3 demands. 0 overdue inventories are discarded.
+1100,95.50895933819497,There occurs 2 demands. 0 overdue inventories are discarded.
+1101,95.5904488019358,There occurs 2 demands. 0 overdue inventories are discarded.
+1102,95.73435153545917,There occurs 2 demands. 0 overdue inventories are discarded.
+1103,95.7606080408684,There occurs 3 demands. 0 overdue inventories are discarded.
+1104,95.78619223017532,There occurs 2 demands. 0 overdue inventories are discarded.
+1105,95.78664059089819,There occurs 2 demands. 0 overdue inventories are discarded.
+1106,95.90238442204286,There occurs 1 demands. 0 overdue inventories are discarded.
+1107,96.0,There occurs 3 demands. 0 overdue inventories are discarded.
+1108,96.03501189523931,Order 50 goods.
+1109,96.08029925249865,There occurs 1 demands. 0 overdue inventories are discarded.
+1110,96.26045316097853,There occurs 3 demands. 0 overdue inventories are discarded.
+1111,96.33018852187271,There occurs 3 demands. 0 overdue inventories are discarded.
+1112,96.40479794982473,There occurs 2 demands. 0 overdue inventories are discarded.
+1113,96.41044844290943,There occurs 1 demands. 0 overdue inventories are discarded.
+1114,96.48058080797388,There occurs 2 demands. 0 overdue inventories are discarded.
+1115,96.8827623898547,There occurs 3 demands. 0 overdue inventories are discarded.
+1116,96.96569834883869,There occurs 2 demands. 0 overdue inventories are discarded.
+1117,97.0,50 goods have arrived.
+1118,97.02882158703518,Order 50 goods.
+1119,97.15268069166414,There occurs 3 demands. 0 overdue inventories are discarded.
+1120,97.342445520249,There occurs 4 demands. 0 overdue inventories are discarded.
+1121,97.39588981741531,There occurs 3 demands. 0 overdue inventories are discarded.
+1122,97.5080635932136,There occurs 2 demands. 0 overdue inventories are discarded.
+1123,97.70116940861742,There occurs 3 demands. 0 overdue inventories are discarded.
+1124,97.71171581970577,There occurs 3 demands. 0 overdue inventories are discarded.
+1125,97.79646417436003,There occurs 2 demands. 0 overdue inventories are discarded.
+1126,97.84608123516536,There occurs 2 demands. 0 overdue inventories are discarded.
+1127,97.8788268182503,There occurs 2 demands. 0 overdue inventories are discarded.
+1128,97.89154073702183,There occurs 2 demands. 0 overdue inventories are discarded.
+1129,98.0,There occurs 2 demands. 0 overdue inventories are discarded.
+1130,98.15723799557374,Order 45 goods.
+1131,98.16670614508928,There occurs 4 demands. 0 overdue inventories are discarded.
+1132,98.24127084578285,There occurs 2 demands. 0 overdue inventories are discarded.
+1133,98.27489882133733,There occurs 3 demands. 0 overdue inventories are discarded.
+1134,98.29100293243822,There occurs 2 demands. 0 overdue inventories are discarded.
+1135,98.39904071403704,There occurs 1 demands. 0 overdue inventories are discarded.
+1136,98.42420697409136,There occurs 1 demands. 0 overdue inventories are discarded.
+1137,98.66070984206131,There occurs 2 demands. 0 overdue inventories are discarded.
+1138,98.67580517746156,There occurs 3 demands. 0 overdue inventories are discarded.
+1139,98.86296317877758,45 goods have arrived.
+1140,98.97480225478665,There occurs 1 demands. 0 overdue inventories are discarded.
+1141,98.97777741537293,There occurs 2 demands. 0 overdue inventories are discarded.
+1142,98.98133864087649,There occurs 3 demands. 0 overdue inventories are discarded.
+1143,99.0,There occurs 3 demands. 0 overdue inventories are discarded.
+1144,99.08541921448018,Order 27 goods.
+1145,99.15980208842507,There occurs 1 demands. 0 overdue inventories are discarded.
+1146,99.17244188348512,There occurs 3 demands. 0 overdue inventories are discarded.
+1147,99.26237125844517,There occurs 2 demands. 0 overdue inventories are discarded.
+1148,99.47014821906684,There occurs 3 demands. 0 overdue inventories are discarded.
+1149,99.4843790864907,There occurs 3 demands. 0 overdue inventories are discarded.
+1150,99.54241602493425,There occurs 2 demands. 0 overdue inventories are discarded.
+1151,99.54355140764861,There occurs 3 demands. 0 overdue inventories are discarded.
+1152,99.72765118611241,There occurs 3 demands. 0 overdue inventories are discarded.
+1153,99.80675239620152,There occurs 1 demands. 0 overdue inventories are discarded.
+1154,99.88332453765152,There occurs 3 demands. 0 overdue inventories are discarded.
+1155,100.0,27 goods have arrived.
+1156,100.1083434590764,Order 24 goods.
+1157,100.29898586161642,There occurs 2 demands. 0 overdue inventories are discarded.
+1158,100.42972921532414,There occurs 2 demands. 0 overdue inventories are discarded.
+1159,100.43240789362211,There occurs 4 demands. 0 overdue inventories are discarded.
+1160,100.45268446209887,There occurs 4 demands. 0 overdue inventories are discarded.
+1161,100.54372043939001,There occurs 1 demands. 0 overdue inventories are discarded.
+1162,100.56488554244623,There occurs 3 demands. 0 overdue inventories are discarded.
+1163,100.61571854231194,There occurs 2 demands. 0 overdue inventories are discarded.
+1164,100.78979767998665,There occurs 2 demands. 0 overdue inventories are discarded.
+1165,100.86883436754513,24 goods have arrived.
+1166,100.91366466940609,There occurs 3 demands. 0 overdue inventories are discarded.
+1167,100.95024124230412,There occurs 1 demands. 0 overdue inventories are discarded.
+1168,101.0,There occurs 2 demands. 0 overdue inventories are discarded.
+1169,101.03517604115359,Order 26 goods.
+1170,101.12614422981154,There occurs 3 demands. 0 overdue inventories are discarded.
+1171,101.6677381848152,There occurs 2 demands. 0 overdue inventories are discarded.
+1172,101.7520810327909,There occurs 2 demands. 0 overdue inventories are discarded.
+1173,101.76665357883937,There occurs 2 demands. 0 overdue inventories are discarded.
+1174,101.79616688896978,26 goods have arrived.
+1175,101.8015814066695,There occurs 2 demands. 0 overdue inventories are discarded.
+1176,101.87153698200461,There occurs 3 demands. 0 overdue inventories are discarded.
+1177,101.97032169885296,There occurs 2 demands. 0 overdue inventories are discarded.
+1178,101.99436011563562,There occurs 1 demands. 0 overdue inventories are discarded.
+1179,102.0,There occurs 1 demands. 0 overdue inventories are discarded.
+1180,102.09336659493674,Order 26 goods.
+1181,102.13923408777492,There occurs 2 demands. 0 overdue inventories are discarded.
+1182,102.1782041790332,There occurs 2 demands. 0 overdue inventories are discarded.
+1183,102.23858322628642,There occurs 3 demands. 0 overdue inventories are discarded.
+1184,102.48898597851588,There occurs 2 demands. 0 overdue inventories are discarded.
+1185,102.75253594907633,There occurs 2 demands. 0 overdue inventories are discarded.
+1186,102.8498289399968,There occurs 2 demands. 0 overdue inventories are discarded.
+1187,102.92251225197639,There occurs 3 demands. 0 overdue inventories are discarded.
+1188,103.0,There occurs 1 demands. 0 overdue inventories are discarded.
+1189,103.0615328609842,Order 35 goods.
+1190,103.11608214495433,There occurs 3 demands. 0 overdue inventories are discarded.
+1191,103.33955151777153,There occurs 4 demands. 0 overdue inventories are discarded.
+1192,103.53212775998777,There occurs 2 demands. 0 overdue inventories are discarded.
+1193,103.59127476958834,There occurs 1 demands. 0 overdue inventories are discarded.
+1194,103.60824798436352,There occurs 1 demands. 0 overdue inventories are discarded.
+1195,103.67493765164002,35 goods have arrived.
+1196,103.76461806962483,There occurs 2 demands. 0 overdue inventories are discarded.
+1197,103.8887115482303,There occurs 1 demands. 0 overdue inventories are discarded.
+1198,104.0,There occurs 3 demands. 0 overdue inventories are discarded.
+1199,104.02881874376689,Order 35 goods.
+1200,104.1637002967429,There occurs 2 demands. 0 overdue inventories are discarded.
+1201,104.23493685562673,There occurs 3 demands. 0 overdue inventories are discarded.
+1202,104.24166214410671,There occurs 3 demands. 0 overdue inventories are discarded.
+1203,104.65262467246043,There occurs 2 demands. 0 overdue inventories are discarded.
+1204,104.73851473079274,There occurs 2 demands. 0 overdue inventories are discarded.
+1205,105.0,There occurs 4 demands. 0 overdue inventories are discarded.
+1206,105.48677375631507,Order 33 goods.
+1207,105.69208683110638,There occurs 2 demands. 0 overdue inventories are discarded.
+1208,105.7986838483816,There occurs 2 demands. 0 overdue inventories are discarded.
+1209,105.87239806890726,There occurs 2 demands. 0 overdue inventories are discarded.
+1210,105.92575690090212,33 goods have arrived.
+1211,105.95886781199356,There occurs 4 demands. 0 overdue inventories are discarded.
+1212,106.0,There occurs 2 demands. 0 overdue inventories are discarded.
+1213,106.1860529707012,Order 33 goods.
+1214,106.18865677198708,There occurs 2 demands. 0 overdue inventories are discarded.
+1215,106.31522298060857,There occurs 2 demands. 0 overdue inventories are discarded.
+1216,106.59031331529212,There occurs 2 demands. 0 overdue inventories are discarded.
+1217,106.60944794536668,There occurs 2 demands. 0 overdue inventories are discarded.
+1218,106.63984270836008,There occurs 1 demands. 0 overdue inventories are discarded.
+1219,106.65675303480108,There occurs 3 demands. 0 overdue inventories are discarded.
+1220,106.822855633712,There occurs 3 demands. 0 overdue inventories are discarded.
+1221,106.83203064015004,There occurs 3 demands. 0 overdue inventories are discarded.
+1222,106.97810565072048,There occurs 1 demands. 0 overdue inventories are discarded.
+1223,107.0,There occurs 1 demands. 0 overdue inventories are discarded.
+1224,107.12657238644069,Order 32 goods.
+1225,107.13166204260243,There occurs 2 demands. 0 overdue inventories are discarded.
+1226,107.27743842958897,There occurs 2 demands. 0 overdue inventories are discarded.
+1227,107.353257104394,There occurs 3 demands. 0 overdue inventories are discarded.
+1228,107.43202583106395,There occurs 4 demands. 0 overdue inventories are discarded.
+1229,107.43436621995363,There occurs 3 demands. 0 overdue inventories are discarded.
+1230,107.47290489659383,There occurs 2 demands. 0 overdue inventories are discarded.
+1231,107.52591314579632,There occurs 2 demands. 0 overdue inventories are discarded.
+1232,107.68465776444869,There occurs 3 demands. 0 overdue inventories are discarded.
+1233,107.95943917401509,32 goods have arrived.
+1234,108.0,There occurs 1 demands. 0 overdue inventories are discarded.
+1235,108.12486039598699,Order 22 goods.
+1236,108.41555325789037,There occurs 4 demands. 0 overdue inventories are discarded.
+1237,108.53600799355782,There occurs 3 demands. 0 overdue inventories are discarded.
+1238,108.6120459776578,There occurs 2 demands. 0 overdue inventories are discarded.
+1239,108.81225279074339,There occurs 1 demands. 0 overdue inventories are discarded.
+1240,108.88810185855532,22 goods have arrived.
+1241,109.0,There occurs 2 demands. 0 overdue inventories are discarded.
+1242,109.01326971471288,Order 22 goods.
+1243,109.14273393593433,There occurs 1 demands. 0 overdue inventories are discarded.
+1244,109.21048714659192,There occurs 2 demands. 0 overdue inventories are discarded.
+1245,109.30911336125718,There occurs 2 demands. 0 overdue inventories are discarded.
+1246,109.31988735128782,There occurs 3 demands. 0 overdue inventories are discarded.
+1247,109.59326267997528,There occurs 3 demands. 0 overdue inventories are discarded.
+1248,109.72321670632525,There occurs 3 demands. 0 overdue inventories are discarded.
+1249,109.81378634697278,There occurs 2 demands. 0 overdue inventories are discarded.
+1250,110.0,There occurs 2 demands. 0 overdue inventories are discarded.
+1251,110.08876002951136,Order 30 goods.
+1252,110.15666692373594,There occurs 2 demands. 0 overdue inventories are discarded.
+1253,110.3541078800107,There occurs 1 demands. 0 overdue inventories are discarded.
+1254,110.37464167153999,There occurs 2 demands. 0 overdue inventories are discarded.
+1255,110.4723727318688,There occurs 2 demands. 0 overdue inventories are discarded.
+1256,110.48936764180347,There occurs 2 demands. 0 overdue inventories are discarded.
+1257,110.49389544020184,There occurs 1 demands. 0 overdue inventories are discarded.
+1258,110.51886828947293,There occurs 3 demands. 0 overdue inventories are discarded.
+1259,110.58131304038697,30 goods have arrived.
+1260,110.5871831927529,There occurs 2 demands. 0 overdue inventories are discarded.
+1261,110.65611582452952,There occurs 3 demands. 0 overdue inventories are discarded.
+1262,110.72392086477852,There occurs 2 demands. 0 overdue inventories are discarded.
+1263,110.90842561092403,There occurs 3 demands. 0 overdue inventories are discarded.
+1264,110.93523726906365,There occurs 4 demands. 0 overdue inventories are discarded.
+1265,111.0,There occurs 2 demands. 0 overdue inventories are discarded.
+1266,111.27774547315748,Order 29 goods.
+1267,111.42231539057417,There occurs 3 demands. 0 overdue inventories are discarded.
+1268,111.4666230546564,There occurs 1 demands. 0 overdue inventories are discarded.
+1269,111.6022484544268,There occurs 1 demands. 0 overdue inventories are discarded.
+1270,111.85917371781883,There occurs 2 demands. 0 overdue inventories are discarded.
+1271,112.0,29 goods have arrived.
+1272,112.19493796218485,Order 29 goods.
+1273,112.25340696725655,There occurs 4 demands. 0 overdue inventories are discarded.
+1274,112.32035602158948,There occurs 3 demands. 0 overdue inventories are discarded.
+1275,112.38246223261673,There occurs 2 demands. 0 overdue inventories are discarded.
+1276,112.64264490040088,There occurs 1 demands. 0 overdue inventories are discarded.
+1277,112.66635381076783,There occurs 2 demands. 0 overdue inventories are discarded.
+1278,112.70241005019194,There occurs 1 demands. 0 overdue inventories are discarded.
+1279,112.79359260576044,There occurs 3 demands. 0 overdue inventories are discarded.
+1280,112.89435425446489,There occurs 1 demands. 0 overdue inventories are discarded.
+1281,112.97513504664785,There occurs 2 demands. 0 overdue inventories are discarded.
+1282,113.0,There occurs 1 demands. 0 overdue inventories are discarded.
+1283,113.20978167058713,Order 27 goods.
+1284,113.23162630154458,There occurs 3 demands. 0 overdue inventories are discarded.
+1285,113.27072445550259,There occurs 3 demands. 0 overdue inventories are discarded.
+1286,113.30132433975153,There occurs 3 demands. 0 overdue inventories are discarded.
+1287,113.35309957610654,There occurs 1 demands. 0 overdue inventories are discarded.
+1288,113.37866936172719,There occurs 3 demands. 0 overdue inventories are discarded.
+1289,113.50435418295592,There occurs 2 demands. 0 overdue inventories are discarded.
+1290,113.52541451075476,There occurs 2 demands. 0 overdue inventories are discarded.
+1291,113.52925024765385,There occurs 2 demands. 0 overdue inventories are discarded.
+1292,113.63982207804105,There occurs 2 demands. 0 overdue inventories are discarded.
+1293,113.66291163021965,There occurs 3 demands. 0 overdue inventories are discarded.
+1294,113.69518421980209,There occurs 3 demands. 0 overdue inventories are discarded.
+1295,113.74819457972289,27 goods have arrived.
+1296,113.83359221011952,There occurs 1 demands. 0 overdue inventories are discarded.
+1297,113.90673082478044,There occurs 3 demands. 0 overdue inventories are discarded.
+1298,114.0,There occurs 1 demands. 0 overdue inventories are discarded.
+1299,114.07893629930585,Order 32 goods.
+1300,114.14792806696462,There occurs 3 demands. 0 overdue inventories are discarded.
+1301,114.47599819008235,There occurs 3 demands. 0 overdue inventories are discarded.
+1302,114.54055357554913,There occurs 2 demands. 0 overdue inventories are discarded.
+1303,114.58097645577122,There occurs 1 demands. 0 overdue inventories are discarded.
+1304,114.59439335149392,There occurs 2 demands. 0 overdue inventories are discarded.
+1305,114.63003662295684,There occurs 2 demands. 0 overdue inventories are discarded.
+1306,114.75732202252603,There occurs 3 demands. 0 overdue inventories are discarded.
+1307,114.83476068818092,There occurs 1 demands. 0 overdue inventories are discarded.
+1308,114.88783926866785,There occurs 2 demands. 0 overdue inventories are discarded.
+1309,114.96967058336914,There occurs 2 demands. 0 overdue inventories are discarded.
+1310,114.98604655973966,32 goods have arrived.
+1311,115.0,There occurs 1 demands. 0 overdue inventories are discarded.
+1312,115.01305171483024,Order 22 goods.
+1313,115.11376269618815,There occurs 3 demands. 0 overdue inventories are discarded.
+1314,115.20047896752673,There occurs 3 demands. 0 overdue inventories are discarded.
+1315,115.20598390967525,There occurs 2 demands. 0 overdue inventories are discarded.
+1316,115.27351519279695,There occurs 2 demands. 0 overdue inventories are discarded.
+1317,115.32450297213366,There occurs 2 demands. 0 overdue inventories are discarded.
+1318,115.34951959718195,There occurs 4 demands. 0 overdue inventories are discarded.
+1319,115.36643811362198,There occurs 3 demands. 0 overdue inventories are discarded.
+1320,115.3977694056195,There occurs 3 demands. 0 overdue inventories are discarded.
+1321,115.40501539589292,There occurs 1 demands. 0 overdue inventories are discarded.
+1322,115.46079034336914,There occurs 2 demands. 0 overdue inventories are discarded.
+1323,115.53410921867982,There occurs 2 demands. 0 overdue inventories are discarded.
+1324,115.53758485551141,There occurs 2 demands. 0 overdue inventories are discarded.
+1325,115.58960336776217,There occurs 2 demands. 0 overdue inventories are discarded.
+1326,115.66321227024795,There occurs 2 demands. 0 overdue inventories are discarded.
+1327,115.71295174891985,22 goods have arrived.
+1328,115.73428090782664,There occurs 3 demands. 0 overdue inventories are discarded.
+1329,115.7902288255275,There occurs 3 demands. 0 overdue inventories are discarded.
+1330,115.84473115004397,There occurs 2 demands. 0 overdue inventories are discarded.
+1331,115.86686178147727,There occurs 1 demands. 0 overdue inventories are discarded.
+1332,115.87076488637484,There occurs 1 demands. 0 overdue inventories are discarded.
+1333,116.0,There occurs 2 demands. 0 overdue inventories are discarded.
+1334,116.02132859184097,Order 45 goods.
+1335,116.04424741468998,There occurs 3 demands. 0 overdue inventories are discarded.
+1336,116.18787885076209,There occurs 2 demands. 0 overdue inventories are discarded.
+1337,116.24765367802846,There occurs 3 demands. 0 overdue inventories are discarded.
+1338,116.40881390931835,There occurs 2 demands. 0 overdue inventories are discarded.
+1339,116.44502729928047,There occurs 2 demands. 0 overdue inventories are discarded.
+1340,116.53150778756611,There occurs 2 demands. 0 overdue inventories are discarded.
+1341,116.62031098828432,There occurs 2 demands. 0 overdue inventories are discarded.
+1342,116.6532260364718,There occurs 2 demands. 0 overdue inventories are discarded.
+1343,116.72795078967137,There occurs 4 demands. 0 overdue inventories are discarded.
+1344,116.77856987067062,There occurs 4 demands. 0 overdue inventories are discarded.
+1345,116.79737957664473,There occurs 2 demands. 0 overdue inventories are discarded.
+1346,116.82192844933373,There occurs 3 demands. 0 overdue inventories are discarded.
+1347,116.94354633962335,There occurs 1 demands. 0 overdue inventories are discarded.
+1348,116.9510920614903,There occurs 1 demands. 0 overdue inventories are discarded.
+1349,117.0,45 goods have arrived.
+1350,117.11413714893428,Order 33 goods.
+1351,117.13325937214867,There occurs 3 demands. 0 overdue inventories are discarded.
+1352,117.34038370513073,There occurs 1 demands. 0 overdue inventories are discarded.
+1353,117.55840741032927,There occurs 4 demands. 0 overdue inventories are discarded.
+1354,117.7207721931478,There occurs 4 demands. 0 overdue inventories are discarded.
+1355,117.74420443397187,There occurs 3 demands. 0 overdue inventories are discarded.
+1356,117.76612159294649,There occurs 3 demands. 0 overdue inventories are discarded.
+1357,117.87081956252058,33 goods have arrived.
+1358,117.87477615712389,There occurs 2 demands. 0 overdue inventories are discarded.
+1359,117.95356621896178,There occurs 2 demands. 0 overdue inventories are discarded.
+1360,118.0,There occurs 3 demands. 0 overdue inventories are discarded.
+1361,118.04479125961704,Order 25 goods.
+1362,118.18917618324673,There occurs 3 demands. 0 overdue inventories are discarded.
+1363,118.22941227855806,There occurs 3 demands. 0 overdue inventories are discarded.
+1364,118.29251355983413,There occurs 2 demands. 0 overdue inventories are discarded.
+1365,118.47222583978132,There occurs 2 demands. 0 overdue inventories are discarded.
+1366,118.52410211581333,There occurs 2 demands. 0 overdue inventories are discarded.
+1367,118.53211481483343,There occurs 3 demands. 0 overdue inventories are discarded.
+1368,118.798272486117,There occurs 3 demands. 0 overdue inventories are discarded.
+1369,118.87267643663819,There occurs 3 demands. 0 overdue inventories are discarded.
+1370,118.92608053705318,25 goods have arrived.
+1371,119.0,There occurs 1 demands. 0 overdue inventories are discarded.
+1372,119.00681357122494,Order 22 goods.
+1373,119.24631762010189,There occurs 2 demands. 0 overdue inventories are discarded.
+1374,119.27603016315584,There occurs 2 demands. 0 overdue inventories are discarded.
+1375,119.37207347730227,There occurs 3 demands. 0 overdue inventories are discarded.
+1376,119.44251968619535,There occurs 2 demands. 0 overdue inventories are discarded.
+1377,119.56409753979199,There occurs 2 demands. 0 overdue inventories are discarded.
+1378,119.8915719122595,22 goods have arrived.
+1379,119.90987603483248,There occurs 3 demands. 0 overdue inventories are discarded.
+1380,120.0,There occurs 3 demands. 0 overdue inventories are discarded.
